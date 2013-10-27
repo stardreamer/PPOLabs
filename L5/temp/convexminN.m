@@ -1,0 +1,14 @@
+M7R0
+I+convexminN=6"%&falseGE\[l$%)FastFallGf+6%'%"fG%*procedureG'%#x0G%&floatG'%$ep
+sGF/6(%"FG%"aG%"bG%"xG%&xprevG%'lambdaGF$F$C&>8(9%>8)"""?(F$F?F?F$%%trueGC%?(F$
+F?F?F$FA@%2,$*&F>F?--%"DG6#9$6#F;""##!""FN,&-FL6#,&F;F?*&F>F?FHF?FPF?-FLFMFP>F>
+,$F>#F?FN[>8'FT@%2-%&evalfG6#-%$absG6#,&-FL6#FfnF?FVFP9&FZ>F;FfnOF`oF$F$F$F/%*F
+ibMinNumGf+6&F*'%"cGF/'%"dGF/'%"NG%(integerG6+F3F4F5%#x1G%#x2G%"yG%"kG%#y1G%#y2
+GF$F$C,@$2FboF<YQ/Wrong~intervalF$>8%F<>8&Fbo>8$f*6#%"nGF$6$%)operatorG%&arrowG
+F$-&%)combinatG6#%*fibonacciGFKF$F$F$>Ffn,&F\qF?*(,&F^qF?F\qFPF?-F`q6#,&9'F?!"#
+F?F?-F`q6#FcrFPF?>F;,&F\qF?*(F_rF?-F`q6#,&FcrF?FPF?F?FerFPF?>8+F`o>8,FV?(8*FcrF
+PF?FA@%2F`sF^sC'>F\qFfn>FfnF;>F;,(F^qF?FfnFPF\qF?>F^sF`s/F`sFVC'>F^qF;>F;Ffn>Ff
+n,(F\qF?F^qF?F;FP>F`sF^s>F^sF`o@%2F`oFVOF`oOFVF$F$F$F/%,GoldenSlashGf+6&F*FhoFj
+oF06,F3F4F5F`pFapFbpFcpFdpFep%$phiGF$F$C(@$FhpYFjp>F\qF<>F^qFbo>8--Fjn6#,&FYF?-
+%%sqrtG6#""&FY?(F$F?F?F$FAC(>Ffn,&F^qF?*&F_rF?FbuFPFP>F;,&F\qF?F^vF?>F^sF`o>F`s
+FV@%1F`sF^s>F\qFfn>F^qF;@$2-F]o6#F_rFcrC$/Ffn,&F\qFYF^qFYFZOF`oF$F$F$F/F$

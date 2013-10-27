@@ -1,0 +1,2533 @@
+{VERSION 13 0 "Windows Vista" "13.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" 
+-1 7 1 {CSTYLE "" -1 -1 "Courier" 1 12 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Ti
+mes" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Line Printed Output" -1 6 1 {CSTYLE "" -1 -1 "Courier" 1 12 0
+ 0 255 1 2 2 2 2 2 1 2 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "T
+ext Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 12 0 0 255 1 2 2 2 2 2
+ 1 3 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 40 120 40 1 2 2 2 2 2 1 2 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Tim
+es" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" 
+-1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1
+ 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 206 1 {CSTYLE "
+" -1 -1 "Courier" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 12
+ 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 
+2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 1" -1 3 
+1 {CSTYLE "" -1 -1 "MS Serif" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 
+0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" -1 -1
+ "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 
+1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 -1 "MS Serif" 1 12 0 0 0 
+1 1 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading \+
+3" -1 5 1 {CSTYLE "" -1 -1 "MS Serif" 1 14 0 0 0 1 1 1 2 2 2 2 1 0 0 1
+ }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" 
+-1 -1 "MS Serif" 1 16 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0
+ 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1 {CSTYLE "" -1 -1 "Couri
+er" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{CSTYLE "Annotation Tex
+t" -1 200 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Inp
+ut Placeholder" -1 201 "Courier" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 
+}{CSTYLE "Code" -1 202 "Courier" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Inert Output" -1 203 "Times" 1 12 144 144 144 1 2 2 2 2 1 
+2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "MS Serif" 1 12 0 128 128 1 2 2 1
+ 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 
+2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 2
+ 1 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2
+ 2 1 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 0 0 0 1 2 2 2 2 1 
+2 0 0 0 1 }{CSTYLE "Header and Footer" -1 204 "Times" 1 10 0 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 205 "Times" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Equation Label" -1 206 "Times" 1 12 0 0 0 1 2 1 2
+ 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "MS Serif" 1 12 
+147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{PSTYLE "" -1 208 1 {CSTYLE "" -1 -1 "
+Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 
+}{PSTYLE "" -1 209 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2
+ 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 210 1 {CSTYLE ""
+ -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "" -1 211 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2
+ 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 212 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 213 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" 
+-1 207 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 208 "Ti
+mes" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 209 "Times" 1 10 
+0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 214 1 {CSTYLE "" -1 -1 "Tim
+es" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 215 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 1 2 
+1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 216 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 
+2 -1 1 }{PSTYLE "" -1 217 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 218 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 219 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" 
+-1 220 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 221 1 {CSTYLE "" -1 -1 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 222 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }}
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typ
+esetting:-mo(\"#\", size = \"22\", foreground = \"[153,51,0]\", mathva
+riant = \"normal\", fence = \"false\", separator = \"false\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0e
+m\"), Typesetting:-mi(\"\320\303\320 \300\313\303\305\314 2\", size = \+
+\"22\", italic = \"true\", foreground = \"[153,51,0]\", mathvariant = \+
+\"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6
+$-I#moGF$6/Q\"#F'/%%sizeGQ#22F'/%+foregroundGQ+[153,51,0]F'/%,mathvari
+antGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symmet
+ricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/
+%'rspaceGFI-I#miGF$6'Q,|[x|^w|[x~|[w|fw|^w|`w|gw~2F'F//%'italicGQ%true
+F'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "" "%#%?G
+" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typeset
+ting:-mo(\"#\", size = \"16\", foreground = \"[255,0,0]\", mathvariant
+ = \"normal\", fence = \"false\", separator = \"false\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\")
+, Typesetting:-mi(\"#1 \317\353\356\371\340\344\374 - \354\356\344\363
+\353\374 \342\345\352\362\356\360\355\356\343\356 \357\360\356\350\347
+\342\345\344\345\355\350\377. \342\373\360\340\347\350\354 \", size = \+
+\"16\", italic = \"true\", foreground = \"[255,0,0]\", mathvariant = \+
+\"italic\"), Typesetting:-mi(\"a\", size = \"16\", italic = \"true\", \+
+foreground = \"[255,0,0]\", mathvariant = \"italic\"), Typesetting:-mo
+(\"&times;\", size = \"16\", foreground = \"[255,0,0]\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222
+2222em\"), Typesetting:-mi(\"b\", size = \"16\", italic = \"true\", fo
+reground = \"[255,0,0]\", mathvariant = \"italic\"), Typesetting:-mo(
+\" \", size = \"16\", foreground = \"[255,0,0]\", mathvariant = \"norm
+al\", fence = \"false\", separator = \"false\", stretchy = \"false\", \+
+symmetric = \"false\", largeop = \"false\", movablelimits = \"false\",
+ accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesett
+ing:-mi(\"\367\345\360\345\347\", size = \"16\", italic = \"true\", fo
+reground = \"[255,0,0]\", mathvariant = \"italic\"), Typesetting:-mo(
+\" \", size = \"16\", foreground = \"[255,0,0]\", mathvariant = \"norm
+al\", fence = \"false\", separator = \"false\", stretchy = \"false\", \+
+symmetric = \"false\", largeop = \"false\", movablelimits = \"false\",
+ accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesett
+ing:-mi(\"p\", size = \"16\", italic = \"true\", foreground = \"[255,0
+,0]\", mathvariant = \"italic\"), Typesetting:-mo(\"&times;\", size = \+
+\"16\", foreground = \"[255,0,0]\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesettin
+g:-mi(\"q\", size = \"16\", italic = \"true\", foreground = \"[255,0,0
+]\", mathvariant = \"italic\"), Typesetting:-mspace(height = \"0.0ex\"
+, width = \"0.0em\", depth = \"0.0ex\", linebreak = \"newline\"), Type
+setting:-mo(\" \", size = \"16\", foreground = \"[255,0,0]\", mathvari
+ant = \"normal\", fence = \"false\", separator = \"false\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em
+\"), Typesetting:-mi(\"a\", size = \"16\", italic = \"true\", foregrou
+nd = \"[255,0,0]\", mathvariant = \"italic\"), Typesetting:-mo(\"&time
+s;\", size = \"16\", foreground = \"[255,0,0]\", mathvariant = \"norma
+l\", fence = \"false\", separator = \"false\", stretchy = \"false\", s
+ymmetric = \"false\", largeop = \"false\", movablelimits = \"false\", \+
+accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"
+), Typesetting:-mi(\"b\", size = \"16\", italic = \"true\", foreground
+ = \"[255,0,0]\", mathvariant = \"italic\"), Typesetting:-mo(\" \", si
+ze = \"16\", foreground = \"[255,0,0]\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"false\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(
+\"=\", size = \"16\", foreground = \"[255,0,0]\", mathvariant = \"norm
+al\", fence = \"false\", separator = \"false\", stretchy = \"false\", \+
+symmetric = \"false\", largeop = \"false\", movablelimits = \"false\",
+ accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em
+\"), Typesetting:-mo(\" \", size = \"16\", foreground = \"[255,0,0]\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"false\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace =
+ \"0.0em\"), Typesetting:-mn(\"5\", size = \"16\", foreground = \"[255
+,0,0]\", mathvariant = \"normal\"), Typesetting:-mo(\" \", size = \"16
+\", foreground = \"[255,0,0]\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"p\", si
+ze = \"16\", italic = \"true\", foreground = \"[255,0,0]\", mathvarian
+t = \"italic\"), Typesetting:-mo(\"&times;\", size = \"16\", foregroun
+d = \"[255,0,0]\", mathvariant = \"normal\", fence = \"false\", separa
+tor = \"false\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mi(\"q\", siz
+e = \"16\", italic = \"true\", foreground = \"[255,0,0]\", mathvariant
+ = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibG
+F'6:-I#moGF$6/Q\"#F'/%%sizeGQ#16F'/%+foregroundGQ*[255,0,0]F'/%,mathva
+riantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symm
+etricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF
+'/%'rspaceGFI-I#miGF$6'QV#1~|jw|fy|iy|dz|[y|_y|gz~-~|gy|iy|_y|^z|fy|gz
+~|]y|`y|ey|]z|iy|[z|hy|iy|^y|iy~|jy|[z|iy|cy|by|]y|`y|_y|`y|hy|cy|jz.~
+|]y|fz|[z|[y|by|cy|gy~F'F//%'italicGQ%trueF'F2/F6Q'italicF'-FM6'Q\"aF'
+F/FPF2FS-F,6/Q(&times;F'F/F2F5F8F;F=F?FAFCFE/FHQ,0.2222222emF'/FKFfn-F
+M6'Q\"bF'F/FPF2FS-F,6/Q\"~F'F/F2F5F8F;F=F?FAFCFEFGFJ-FM6'Q&|bz|`y|[z|`
+y|byF'F/FPF2FSF[o-FM6'Q\"pF'F/FPF2FSFX-FM6'Q\"qF'F/FPF2FS-I'mspaceGF$6
+&/%'heightGQ&0.0exF'/%&widthGFI/%&depthGF\\p/%*linebreakGQ(newlineF'F[
+oFUFXFhnF[o-F,6/Q\"=F'F/F2F5F8F;F=F?FAFCFE/FHQ,0.2777778emF'/FKFhpF[o-
+I#mnGF$6&Q\"5F'F/F2F5F[oFaoFXFdo" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"s\", italic = \"tru
+e\", mathvariant = \"italic\"), Typesetting:-mo(\"&coloneq;\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"false\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \+
+\"0.2777778em\"), Typesetting:-mn(\"5\", mathvariant = \"normal\"), Ty
+pesetting:-mo(\"&sdot;\", mathvariant = \"normal\", fence = \"false\",
+ separator = \"false\", stretchy = \"false\", symmetric = \"false\", l
+argeop = \"false\", movablelimits = \"false\", accent = \"false\", lsp
+ace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mn(\"1\", mathvaria
+nt = \"normal\"), Typesetting:-mo(\"&sdot;\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:
+-mn(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\"&sdot;\", math
+variant = \"normal\", fence = \"false\", separator = \"false\", stretc
+hy = \"false\", symmetric = \"false\", largeop = \"false\", movablelim
+its = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.
+0em\"), Typesetting:-mi(\"sin\", italic = \"false\", mathvariant = \"n
+ormal\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mfrac(Ty
+pesetting:-mi(\"Pi\", italic = \"false\", mathvariant = \"normal\"), T
+ypesetting:-mrow(Typesetting:-mn(\"6\", mathvariant = \"normal\")), li
+nethickness = \"1\", denomalign = \"center\", numalign = \"center\", b
+evelled = \"false\")), mathvariant = \"normal\"), Typesetting:-mo(\";
+\", mathvariant = \"normal\", fence = \"false\", separator = \"true\",
+ stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mov
+ablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace
+ = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sy
+slibGF'6--I#miGF$6%Q\"sF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I
+#moGF$6-Q*&coloneq;F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF=/%)
+stretchyGF=/%*symmetricGF=/%(largeopGF=/%.movablelimitsGF=/%'accentGF=
+/%'lspaceGQ,0.2777778emF'/%'rspaceGFL-I#mnGF$6$Q\"5F'F9-F66-Q'&sdot;F'
+F9F;F>F@FBFDFFFH/FKQ&0.0emF'/FNFW-FP6$Q\"1F'F9FS-FP6$Q\"2F'F9FS-F,6%Q$
+sinF'/F0F=F9-I(mfencedGF$6$-F#6#-I&mfracGF$6(-F,6%Q#PiF'F\\oF9-F#6#-FP
+6$Q\"6F'F9/%.linethicknessGFen/%+denomalignGQ'centerF'/%)numalignGFap/
+%)bevelledGF=F9-F66-Q\";F'F9F;/F?F1F@FBFDFFFHFVFM" }}{PARA 208 "" 1 ""
+ {XPPMATH 20 "-I#miG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%Q5o
+utput~redirected...F'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT -1 31 "[LABEL \+
+REFERENCE NOT SUPPORTED]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 19 "# in
+put placeholder" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"&" }}}{EXCHG 
+{PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#
+\", size = \"16\", foreground = \"[255,0,0]\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesettin
+g:-mi(\"#2\", size = \"16\", italic = \"true\", foreground = \"[255,0,
+0]\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,Types
+ettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#16F'/%+foregroundGQ*[25
+5,0,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)s
+tretchyGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/
+%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q##2F'F//%'italicGQ%trueF'F2/F
+6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-m
+row(Typesetting:-mo(\"#\", size = \"14\", foreground = \"[0,255,0]\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.0em\"), Typesetting:-mi(\"##\320\345\361\362\340\360\362\", size =
+ \"14\", italic = \"true\", foreground = \"[0,255,0]\", mathvariant = \+
+\"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6
+$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvaria
+ntGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symmetr
+icGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%
+'rspaceGFI-I#miGF$6'Q*##|[x|`y|\\z|]z|[y|[z|]zF'F//%'italicGQ%trueF'F2
+/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:
+-mrow(Typesetting:-mi(\"restart\", italic = \"true\", mathvariant = \"
+italic\"), Typesetting:-mo(\":\", mathvariant = \"normal\", fence = \"
+false\", separator = \"false\", stretchy = \"false\", symmetric = \"fa
+lse\", largeop = \"false\", movablelimits = \"false\", accent = \"fals
+e\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:
+-mi(\"with\", italic = \"true\", mathvariant = \"italic\"), Typesettin
+g:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"geom3d\", italic = \"tr
+ue\", mathvariant = \"italic\")), mathvariant = \"normal\"), Typesetti
+ng:-mo(\":\", mathvariant = \"normal\", fence = \"false\", separator =
+ \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"f
+alse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.27
+77778em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,
+TypesettingGI(_syslibGF'6'-I#miGF$6%Q(restartF'/%'italicGQ%trueF'/%,ma
+thvariantGQ'italicF'-I#moGF$6-Q\":F'/F3Q'normalF'/%&fenceGQ&falseF'/%*
+separatorGF=/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.movablelimits
+GF=/%'accentGF=/%'lspaceGQ,0.2777778emF'/%'rspaceGFL-F,6%Q%withF'F/F2-
+I(mfencedGF$6$-F#6#-F,6%Q'geom3dF'F/F2F9F5" }}}{EXCHG {PARA 0 "> " 0 "
+" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#\", size = \"14
+\", foreground = \"[0,255,0]\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"##\307
+\340\342\356\344\350\354 \362\356\367\352\350\", size = \"14\", italic
+ = \"true\", foreground = \"[0,255,0]\", mathvariant = \"italic\"));" 
+"-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#
+F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%
+&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symmetricGF:/%(largeop
+GF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#mi
+GF$6'Q0##|bw|[y|]y|iy|_y|cy|gy~|]z|iy|bz|ey|cyF'F//%'italicGQ%trueF'F2
+/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:
+-mrow(Typesetting:-mi(\"point\", italic = \"true\", mathvariant = \"it
+alic\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"A1\"
+, italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"true\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.3333333em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\"), Ty
+pesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", sepa
+rator = \"true\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"3\", mathvaria
+nt = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"true\", stretchy = \"false\", symmetric \+
+= \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:
+-mn(\"6\", mathvariant = \"normal\")), mathvariant = \"normal\"), Type
+setting:-mo(\":\", mathvariant = \"normal\", fence = \"false\", separa
+tor = \"false\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.2777778em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulename
+G6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q&pointF'/%'italicGQ%trueF'/
+%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6)-F,6%Q#A1F'F/F2-I#moGF$6-Q
+\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/%)stretchyGFE/%*sy
+mmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'lspaceGQ&0.0e
+mF'/%'rspaceGQ,0.3333333emF'-I#mnGF$6$Q\"1F'FAF=-FY6$Q\"3F'FAF=-FY6$Q
+\"6F'FAFA-F>6-Q\":F'FAFC/FGFEFHFJFLFNFP/FSQ,0.2777778emF'/FVFao" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:
+-mi(\"point\", italic = \"true\", mathvariant = \"italic\"), Typesetti
+ng:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"A2\", italic = \"true
+\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"
+normal\", fence = \"false\", separator = \"true\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\")
+, Typesetting:-mn(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\"
+,\", mathvariant = \"normal\", fence = \"false\", separator = \"true\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspac
+e = \"0.3333333em\"), Typesetting:-mn(\"2\", mathvariant = \"normal\")
+, Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", \+
+separator = \"true\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"1\", mathv
+ariant = \"normal\")), mathvariant = \"normal\"), Typesetting:-mo(\":
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.2777778em\",
+ rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,Typesettin
+gGI(_syslibGF'6%-I#miGF$6%Q&pointF'/%'italicGQ%trueF'/%,mathvariantGQ'
+italicF'-I(mfencedGF$6$-F#6)-F,6%Q#A2F'F/F2-I#moGF$6-Q\",F'/F3Q'normal
+F'/%&fenceGQ&falseF'/%*separatorGF1/%)stretchyGFE/%*symmetricGFE/%(lar
+geopGFE/%.movablelimitsGFE/%'accentGFE/%'lspaceGQ&0.0emF'/%'rspaceGQ,0
+.3333333emF'-I#mnGF$6$Q\"2F'FAF=FXF=-FY6$Q\"1F'FAFA-F>6-Q\":F'FAFC/FGF
+EFHFJFLFNFP/FSQ,0.2777778emF'/FVF^o" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"point\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mfenced(Typesetting:
+-mrow(Typesetting:-mi(\"A3\", italic = \"true\", mathvariant = \"itali
+c\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false
+\", separator = \"true\", stretchy = \"false\", symmetric = \"false\",
+ largeop = \"false\", movablelimits = \"false\", accent = \"false\", l
+space = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mo(\"&uminu
+s0;\", mathvariant = \"normal\", fence = \"false\", separator = \"fals
+e\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\",
+ movablelimits = \"false\", accent = \"false\", lspace = \"0.2222222em
+\", rspace = \"0.2222222em\"), Typesetting:-mn(\"1\", mathvariant = \"
+normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"
+false\", separator = \"true\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0
+\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"
+normal\", fence = \"false\", separator = \"true\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\")
+, Typesetting:-mn(\"1\", mathvariant = \"normal\")), mathvariant = \"n
+ormal\"), Typesetting:-mo(\":\", mathvariant = \"normal\", fence = \"f
+alse\", separator = \"false\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"));" "-I%mrowG6#
+/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q&pointF'/%'ita
+licGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6*-F,6%Q#A3F'F/
+F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/%)str
+etchyGFE/%*symmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'
+lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F>6-Q*&uminus0;F'FAFC/FGFEFH
+FJFLFNFP/FSQ,0.2222222emF'/FVFgn-I#mnGF$6$Q\"1F'FAF=-Fjn6$Q\"0F'FAF=Fi
+nFA-F>6-Q\":F'FAFCFenFHFJFLFNFP/FSQ,0.2777778emF'/FVFdo" }}}{EXCHG 
+{PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"p
+oint\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mfe
+nced(Typesetting:-mrow(Typesetting:-mi(\"A4\", italic = \"true\", math
+variant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"true\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typeset
+ting:-mo(\"&uminus0;\", mathvariant = \"normal\", fence = \"false\", s
+eparator = \"false\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mn(\"4\",
+ mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"nor
+mal\", fence = \"false\", separator = \"true\", stretchy = \"false\", \+
+symmetric = \"false\", largeop = \"false\", movablelimits = \"false\",
+ accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Ty
+pesetting:-mn(\"6\", mathvariant = \"normal\"), Typesetting:-mo(\",\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"true\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.3333333em\"), Typesetting:-mn(\"3\", mathvariant = \"normal\")), m
+athvariant = \"normal\"), Typesetting:-mo(\":\", mathvariant = \"norma
+l\", fence = \"false\", separator = \"false\", stretchy = \"false\", s
+ymmetric = \"false\", largeop = \"false\", movablelimits = \"false\", \+
+accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"
+));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6
+%Q&pointF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F
+#6*-F,6%Q#A4F'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*se
+paratorGF1/%)stretchyGFE/%*symmetricGFE/%(largeopGFE/%.movablelimitsGF
+E/%'accentGFE/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F>6-Q*&uminu
+s0;F'FAFC/FGFEFHFJFLFNFP/FSQ,0.2222222emF'/FVFgn-I#mnGF$6$Q\"4F'FAF=-F
+jn6$Q\"6F'FAF=-Fjn6$Q\"3F'FAFA-F>6-Q\":F'FAFCFenFHFJFLFNFP/FSQ,0.27777
+78emF'/FVFgo" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-
+mrow(Typesetting:-mo(\"#\", size = \"14\", foreground = \"[0,255,0]\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"false\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace =
+ \"0.0em\"), Typesetting:-mi(\"##\321\362\360\356\350\354 \362\345\362
+\360\340\375\344\360\", size = \"14\", italic = \"true\", foreground =
+ \"[0,255,0]\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG
+6\"I,TypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregr
+oundGQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separa
+torGF:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'
+accentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q2##|\\x|]z|[z|iy|cy
+|gy~|]z|`y|]z|[z|[y|hz|_y|[zF'F//%'italicGQ%trueF'F2/F6Q'italicF'" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:
+-mi(\"gtetrahedron\", italic = \"true\", mathvariant = \"italic\"), Ty
+pesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"T1\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333333
+3em\"), Typesetting:-mo(\" \", mathvariant = \"normal\", fence = \"fal
+se\", separator = \"false\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mfenced(Typese
+tting:-mrow(Typesetting:-mi(\"A1\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"true\", stretchy = \"false\", symmetric = \"f
+alse\", largeop = \"false\", movablelimits = \"false\", accent = \"fal
+se\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mo(
+\" \", mathvariant = \"normal\", fence = \"false\", separator = \"fals
+e\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\",
+ movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rs
+pace = \"0.0em\"), Typesetting:-mi(\"A2\", italic = \"true\", mathvari
+ant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fe
+nce = \"false\", separator = \"true\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting
+:-mo(\" \", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.0em\"), Typesetting:-mi(\"A3\", italic = \"true\", ma
+thvariant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal
+\", fence = \"false\", separator = \"true\", stretchy = \"false\", sym
+metric = \"false\", largeop = \"false\", movablelimits = \"false\", ac
+cent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Types
+etting:-mo(\" \", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"A4\", italic = \"true
+\", mathvariant = \"italic\")), mathvariant = \"normal\", open = \"[\"
+, close = \"]\")), mathvariant = \"normal\"), Typesetting:-mo(\":\", m
+athvariant = \"normal\", fence = \"false\", separator = \"false\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspa
+ce = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_
+syslibGF'6%-I#miGF$6%Q-gtetrahedronF'/%'italicGQ%trueF'/%,mathvariantG
+Q'italicF'-I(mfencedGF$6$-F#6&-F,6%Q#T1F'F/F2-I#moGF$6-Q\",F'/F3Q'norm
+alF'/%&fenceGQ&falseF'/%*separatorGF1/%)stretchyGFE/%*symmetricGFE/%(l
+argeopGFE/%.movablelimitsGFE/%'accentGFE/%'lspaceGQ&0.0emF'/%'rspaceGQ
+,0.3333333emF'-F>6-Q\"~F'FAFC/FGFEFHFJFLFNFPFR/FVFT-F66&-F#6,-F,6%Q#A1
+F'F/F2F=FX-F,6%Q#A2F'F/F2F=FX-F,6%Q#A3F'F/F2F=FX-F,6%Q#A4F'F/F2FA/%%op
+enGQ\"[F'/%&closeGQ\"]F'FA-F>6-Q\":F'FAFCFenFHFJFLFNFP/FSQ,0.2777778em
+F'/FVFap" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT 
+-1 31 "[LABEL REFERENCE NOT SUPPORTED]" }{MPLTEXT 1 0 3 "); " }
+{MPLTEXT 1 0 19 "# input placeholder" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#\", size = \"14\",
+ foreground = \"[0,255,0]\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"##\317\356
+\361\354\356\362\360\350\354 \355\340 \355\345\343\356\", size = \"14
+\", italic = \"true\", foreground = \"[0,255,0]\", mathvariant = \"ita
+lic\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.0em\", dep
+th = \"0.0ex\", linebreak = \"newline\"), Typesetting:-mspace(height =
+ \"0.0ex\", width = \"0.0em\", depth = \"0.0ex\", linebreak = \"auto\"
+), Typesetting:-mi(\"draw\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"T1\", it
+alic = \"true\", mathvariant = \"italic\")), mathvariant = \"normal\")
+, Typesetting:-mo(\";\", mathvariant = \"normal\", fence = \"false\", \+
+separator = \"true\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.0em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6
+\"I,TypesettingGI(_syslibGF'6)-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregro
+undGQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separat
+orGF:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'a
+ccentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q4##|jw|iy|\\z|gy|iy|
+]z|[z|cy|gy~|hy|[y~|hy|`y|^y|iyF'F//%'italicGQ%trueF'F2/F6Q'italicF'-I
+'mspaceGF$6&/%'heightGQ&0.0exF'/%&widthGFI/%&depthGFZ/%*linebreakGQ(ne
+wlineF'-FV6&FXFenFgn/FjnQ%autoF'-FM6%Q%drawF'FPFS-I(mfencedGF$6$-F#6#-
+FM6%Q#T1F'FPFSF5-F,6-Q\";F'F5F8/F<FRF=F?FAFCFEFG/FKQ,0.2777778emF'" }}
+{PARA 209 "" 1 "" {XPPMATH 20 "-I#miG6#/I+modulenameG6\"I,TypesettingG
+I(_syslibGF'6%Q5output~redirected...F'/%'italicGQ%trueF'/%,mathvariant
+GQ'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 2 "%;" }}{PARA 
+13 "" 1 "" {TEXT 210 0 "" }{GLPLOT3D 400 400 400 {PLOTDATA 3 "6&-%)POL
+YGONSG6&7%7%$\"#5!\"\"$\"#I!\"\"$\"#g!\"\"7%$\"#?!\"\"$\"#?!\"\"$\"#5!
+\"\"7%$!#5!\"\"$\"\"!!\"\"$\"#5!\"\"7%7%$\"#5!\"\"$\"#I!\"\"$\"#g!\"\"
+7%$\"#?!\"\"$\"#?!\"\"$\"#5!\"\"7%$!#S!\"\"$\"#g!\"\"$\"#I!\"\"7%7%$\"
+#5!\"\"$\"#I!\"\"$\"#g!\"\"7%$!#5!\"\"$\"\"!!\"\"$\"#5!\"\"7%$!#S!\"\"
+$\"#g!\"\"$\"#I!\"\"7%7%$\"#?!\"\"$\"#?!\"\"$\"#5!\"\"7%$!#5!\"\"$\"\"
+!!\"\"$\"#5!\"\"7%$!#S!\"\"$\"#g!\"\"$\"#I!\"\"-%%VIEWG6%;$!#S!\"\"$\"
+#?!\"\";$\"\"!!\"\"$\"#g!\"\";$\"#5!\"\"$\"#g!\"\"-%*AXESSTYLEG6#%%NON
+EG-%(SCALINGG6#%,CONSTRAINEDG" 1 2 2 1 10 1 2 1 0 1 1 1.0 45.0 45.0 0 
+0 "Curve 1" }}{TEXT 210 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 205 0 "" 
+}}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetti
+ng:-mo(\"#\", size = \"14\", foreground = \"[0,255,0]\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), T
+ypesetting:-mi(\"##\310\371\345\354 \356\341\372\270\354\", size = \"1
+4\", italic = \"true\", foreground = \"[0,255,0]\", mathvariant = \"it
+alic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6$-I#
+moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvariantGQ
+'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symmetricGF
+:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%'rsp
+aceGFI-I#miGF$6'Q-##|cw|dz|`y|gy~|iy|\\y|ez|cv|gyF'F//%'italicGQ%trueF
+'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetti
+ng:-mrow(Typesetting:-mi(\"volume\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"
+T1\", italic = \"true\", mathvariant = \"italic\")), mathvariant = \"n
+ormal\"), Typesetting:-mo(\";\", mathvariant = \"normal\", fence = \"f
+alse\", separator = \"true\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+mod
+ulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q'volumeF'/%'italicGQ
+%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6#-F,6%Q#T1F'F/F2/F3
+Q'normalF'-I#moGF$6-Q\";F'F=/%&fenceGQ&falseF'/%*separatorGF1/%)stretc
+hyGFE/%*symmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'lsp
+aceGQ&0.0emF'/%'rspaceGQ,0.2777778emF'" }}{PARA 210 "" 1 "" {XPPMATH 
+20 "-I#miG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%Q5output~redi
+rected...F'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT -1 31 "[LABEL REFEREN
+CE NOT SUPPORTED]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 19 "# input pla
+ceholder" }}{PARA 11 "" 1 "" {XPPMATH 20 "#\"#b\"\"$" }}}{EXCHG {PARA 
+0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#\", si
+ze = \"14\", foreground = \"[0,255,0]\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"false\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(
+\"##\310\371\345\354 \342\373\361\356\362\363, \356\357\363\371\345\35
+5\355\363\376 \350\347 A4 \355\340 A1A2A3\", size = \"14\", italic = \+
+\"true\", foreground = \"[0,255,0]\", mathvariant = \"italic\"));" "-I
+%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/
+%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%&fe
+nceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:
+/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$
+6'QI##|cw|dz|`y|gy~|]y|fz|\\z|iy|]z|^z,~|iy|jy|^z|dz|`y|hy|hy|^z|iz~|c
+y|by~A4~|hy|[y~A1A2A3F'F//%'italicGQ%trueF'F2/F6Q'italicF'" }}}{EXCHG 
+{PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"d
+istance\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-
+mfenced(Typesetting:-mrow(Typesetting:-mi(\"A4\", italic = \"true\", m
+athvariant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"norma
+l\", fence = \"false\", separator = \"true\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Type
+setting:-mi(\"plane\", italic = \"true\", mathvariant = \"italic\"), T
+ypesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"p\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333333
+3em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"A1\",
+ italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"true\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.3333333em\"), Typesetting:-mi(\"A2\", italic = \"true\", mathvaria
+nt = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"true\", stretchy = \"false\", symmetric \+
+= \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:
+-mi(\"A3\", italic = \"true\", mathvariant = \"italic\")), mathvariant
+ = \"normal\", open = \"[\", close = \"]\")), mathvariant = \"normal\"
+)), mathvariant = \"normal\"), Typesetting:-mo(\";\", mathvariant = \"
+normal\", fence = \"false\", separator = \"true\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.2777778em\")
+);" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%
+Q)distanceF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$
+-F#6&-F,6%Q#A4F'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*
+separatorGF1/%)stretchyGFE/%*symmetricGFE/%(largeopGFE/%.movablelimits
+GFE/%'accentGFE/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F,6%Q&plan
+eF'F/F2-F66$-F#6%-F,6%Q\"pF'F/F2F=-F66&-F#6'-F,6%Q#A1F'F/F2F=-F,6%Q#A2
+F'F/F2F=-F,6%Q#A3F'F/F2FA/%%openGQ\"[F'/%&closeGQ\"]F'FAFA-F>6-Q\";F'F
+AFCFFFHFJFLFNFPFR/FVQ,0.2777778emF'" }}{PARA 211 "" 1 "" {XPPMATH 20 "
+-I#miG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%Q5output~redirect
+ed...F'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT -1 31 "[LABEL REFERENCE NOT S
+UPPORTED]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 19 "# input placeholder
+" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*$\"#9#\"\"\"\"\"##\"#6\"\"(" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:
+-mo(\"#\", size = \"16\", foreground = \"[255,0,0]\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mi(\"#3\", size = \"16\", italic = \"true\", foreground = \"[
+255,0,0]\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I
+,TypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#16F'/%+foreground
+GQ*[255,0,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorG
+F:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'acce
+ntGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q##3F'F//%'italicGQ%true
+F'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesett
+ing:-mrow(Typesetting:-mo(\"#\", size = \"14\", foreground = \"[0,255,
+0]\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rsp
+ace = \"0.0em\"), Typesetting:-mi(\"##\320\345\361\362\340\360\362\", \+
+size = \"14\", italic = \"true\", foreground = \"[0,255,0]\", mathvari
+ant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sysl
+ibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mat
+hvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*s
+ymmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0
+emF'/%'rspaceGFI-I#miGF$6'Q*##|[x|`y|\\z|]z|[y|[z|]zF'F//%'italicGQ%tr
+ueF'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typese
+tting:-mrow(Typesetting:-mi(\"restart\", italic = \"true\", mathvarian
+t = \"italic\"), Typesetting:-mo(\":\", mathvariant = \"normal\", fenc
+e = \"false\", separator = \"false\", stretchy = \"false\", symmetric \+
+= \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typese
+tting:-mi(\"with\", italic = \"true\", mathvariant = \"italic\"), Type
+setting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"geom3d\", italic \+
+= \"true\", mathvariant = \"italic\")), mathvariant = \"normal\"), Typ
+esetting:-mo(\":\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.2777778em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulename
+G6\"I,TypesettingGI(_syslibGF'6'-I#miGF$6%Q(restartF'/%'italicGQ%trueF
+'/%,mathvariantGQ'italicF'-I#moGF$6-Q\":F'/F3Q'normalF'/%&fenceGQ&fals
+eF'/%*separatorGF=/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.movable
+limitsGF=/%'accentGF=/%'lspaceGQ,0.2777778emF'/%'rspaceGFL-F,6%Q%withF
+'F/F2-I(mfencedGF$6$-F#6#-F,6%Q'geom3dF'F/F2F9F5" }}}{EXCHG {PARA 0 ">
+ " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#\", size =
+ \"14\", foreground = \"[0,255,0]\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"##
+\307\340\342\356\344\350\354 \362\356\367\352\350\", size = \"14\", it
+alic = \"true\", foreground = \"[0,255,0]\", mathvariant = \"italic\")
+);" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6$-I#moGF$6/
+Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvariantGQ'normal
+F'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symmetricGF:/%(lar
+geopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-
+I#miGF$6'Q0##|bw|[y|]y|iy|_y|cy|gy~|]z|iy|bz|ey|cyF'F//%'italicGQ%true
+F'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesett
+ing:-mrow(Typesetting:-mi(\"point\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"
+M1\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"
+,\", mathvariant = \"normal\", fence = \"false\", separator = \"true\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspac
+e = \"0.3333333em\"), Typesetting:-mo(\"&uminus0;\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222222
+2em\"), Typesetting:-mn(\"3\", mathvariant = \"normal\"), Typesetting:
+-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"
+true\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.3333333em\"), Typesetting:-mn(\"4\", mathvariant = \"nor
+mal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"fal
+se\", separator = \"true\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mo(\"&um
+inus0;\", mathvariant = \"normal\", fence = \"false\", separator = \"f
+alse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.222222
+2em\", rspace = \"0.2222222em\"), Typesetting:-mn(\"7\", mathvariant =
+ \"normal\")), mathvariant = \"normal\"), Typesetting:-mo(\":\", mathv
+ariant = \"normal\", fence = \"false\", separator = \"false\", stretch
+y = \"false\", symmetric = \"false\", largeop = \"false\", movablelimi
+ts = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace =
+ \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sysl
+ibGF'6%-I#miGF$6%Q&pointF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-
+I(mfencedGF$6$-F#6+-F,6%Q#M1F'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenc
+eGQ&falseF'/%*separatorGF1/%)stretchyGFE/%*symmetricGFE/%(largeopGFE/%
+.movablelimitsGFE/%'accentGFE/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333e
+mF'-F>6-Q*&uminus0;F'FAFC/FGFEFHFJFLFNFP/FSQ,0.2222222emF'/FVFgn-I#mnG
+F$6$Q\"3F'FAF=-Fjn6$Q\"4F'FAF=FX-Fjn6$Q\"7F'FAFA-F>6-Q\":F'FAFCFenFHFJ
+FLFNFP/FSQ,0.2777778emF'/FVFgo" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 
+19 1 "Typesetting:-mrow(Typesetting:-mi(\"point\", italic = \"true\", \+
+mathvariant = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Type
+setting:-mi(\"M2\", italic = \"true\", mathvariant = \"italic\"), Type
+setting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separa
+tor = \"true\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"1\", mathvariant
+ = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"true\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-m
+n(\"5\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant
+ = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333e
+m\"), Typesetting:-mo(\"&uminus0;\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesett
+ing:-mn(\"4\", mathvariant = \"normal\")), mathvariant = \"normal\"), \+
+Typesetting:-mo(\":\", mathvariant = \"normal\", fence = \"false\", se
+parator = \"false\", stretchy = \"false\", symmetric = \"false\", larg
+eop = \"false\", movablelimits = \"false\", accent = \"false\", lspace
+ = \"0.2777778em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulen
+ameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q&pointF'/%'italicGQ%true
+F'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6*-F,6%Q#M2F'F/F2-I#moGF$
+6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/%)stretchyGFE/%
+*symmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'lspaceGQ&0
+.0emF'/%'rspaceGQ,0.3333333emF'-I#mnGF$6$Q\"1F'FAF=-FY6$Q\"5F'FAF=-F>6
+-Q*&uminus0;F'FAFC/FGFEFHFJFLFNFP/FSQ,0.2222222emF'/FVF^o-FY6$Q\"4F'FA
+FA-F>6-Q\":F'FAFCF\\oFHFJFLFNFP/FSQ,0.2777778emF'/FVFgo" }}}{EXCHG 
+{PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"p
+oint\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mfe
+nced(Typesetting:-mrow(Typesetting:-mi(\"M3\", italic = \"true\", math
+variant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"true\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typeset
+ting:-mo(\"&uminus0;\", mathvariant = \"normal\", fence = \"false\", s
+eparator = \"false\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mn(\"5\",
+ mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"nor
+mal\", fence = \"false\", separator = \"true\", stretchy = \"false\", \+
+symmetric = \"false\", largeop = \"false\", movablelimits = \"false\",
+ accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Ty
+pesetting:-mo(\"&uminus0;\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mn(
+\"2\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"true\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em
+\"), Typesetting:-mn(\"0\", mathvariant = \"normal\")), mathvariant = \+
+\"normal\"), Typesetting:-mo(\":\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"));" "-I%mrow
+G6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q&pointF'/%'
+italicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6+-F,6%Q#M3F
+'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/%)
+stretchyGFE/%*symmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'accentGFE
+/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F>6-Q*&uminus0;F'FAFC/FGF
+EFHFJFLFNFP/FSQ,0.2222222emF'/FVFgn-I#mnGF$6$Q\"5F'FAF=FX-Fjn6$Q\"2F'F
+AF=-Fjn6$Q\"0F'FAFA-F>6-Q\":F'FAFCFenFHFJFLFNFP/FSQ,0.2777778emF'/FVFg
+o" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typese
+tting:-mi(\"point\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"M0\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333333
+3em\"), Typesetting:-mo(\"&uminus0;\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"false\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typese
+tting:-mn(\"12\", mathvariant = \"normal\"), Typesetting:-mo(\",\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"true\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0
+.3333333em\"), Typesetting:-mn(\"7\", mathvariant = \"normal\"), Types
+etting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"true\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.3333333em\"), Typesetting:-mo(\"&uminus0;\", math
+variant = \"normal\", fence = \"false\", separator = \"false\", stretc
+hy = \"false\", symmetric = \"false\", largeop = \"false\", movablelim
+its = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace \+
+= \"0.2222222em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")),
+ mathvariant = \"normal\"), Typesetting:-mo(\":\", mathvariant = \"nor
+mal\", fence = \"false\", separator = \"false\", stretchy = \"false\",
+ symmetric = \"false\", largeop = \"false\", movablelimits = \"false\"
+, accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em
+\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF
+$6%Q&pointF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$
+-F#6+-F,6%Q#M0F'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*
+separatorGF1/%)stretchyGFE/%*symmetricGFE/%(largeopGFE/%.movablelimits
+GFE/%'accentGFE/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F>6-Q*&umi
+nus0;F'FAFC/FGFEFHFJFLFNFP/FSQ,0.2222222emF'/FVFgn-I#mnGF$6$Q#12F'FAF=
+-Fjn6$Q\"7F'FAF=FX-Fjn6$Q\"1F'FAFA-F>6-Q\":F'FAFCFenFHFJFLFNFP/FSQ,0.2
+777778emF'/FVFgo" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetti
+ng:-mrow(Typesetting:-mo(\"#\", size = \"14\", foreground = \"[0,255,0
+]\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rsp
+ace = \"0.0em\"), Typesetting:-mi(\"##\310\371\345\354 \360\340\361\36
+1\362\356\377\355\350\345 \356\362 M0 \344\356 \357\353\356\361\352\35
+6\361\362\350 M1M2M3\", size = \"14\", italic = \"true\", foreground =
+ \"[0,255,0]\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG
+6\"I,TypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregr
+oundGQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separa
+torGF:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'
+accentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'QL##|cw|dz|`y|gy~|[z
+|[y|\\z|\\z|]z|iy|jz|hy|cy|`y~|iy|]z~M0~|_y|iy~|jy|fy|iy|\\z|ey|iy|\\z
+|]z|cy~M1M2M3F'F//%'italicGQ%trueF'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 
+"> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"distance
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mfenced
+(Typesetting:-mrow(Typesetting:-mi(\"M0\", italic = \"true\", mathvari
+ant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fe
+nce = \"false\", separator = \"true\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting
+:-mi(\"plane\", italic = \"true\", mathvariant = \"italic\"), Typesett
+ing:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"p\", italic = \"true
+\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"
+normal\", fence = \"false\", separator = \"true\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\")
+, Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"M1\", itali
+c = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathva
+riant = \"normal\", fence = \"false\", separator = \"true\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333
+3333em\"), Typesetting:-mi(\"M2\", italic = \"true\", mathvariant = \"
+italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"
+false\", separator = \"true\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(\"M
+3\", italic = \"true\", mathvariant = \"italic\")), mathvariant = \"no
+rmal\", open = \"[\", close = \"]\")), mathvariant = \"normal\")), mat
+hvariant = \"normal\"), Typesetting:-mo(\";\", mathvariant = \"normal
+\", fence = \"false\", separator = \"true\", stretchy = \"false\", sym
+metric = \"false\", largeop = \"false\", movablelimits = \"false\", ac
+cent = \"false\", lspace = \"0.0em\", rspace = \"0.2777778em\"));" "-I
+%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q)dista
+nceF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6&-F
+,6%Q#M0F'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separat
+orGF1/%)stretchyGFE/%*symmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'a
+ccentGFE/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F,6%Q&planeF'F/F2
+-F66$-F#6%-F,6%Q\"pF'F/F2F=-F66&-F#6'-F,6%Q#M1F'F/F2F=-F,6%Q#M2F'F/F2F
+=-F,6%Q#M3F'F/F2FA/%%openGQ\"[F'/%&closeGQ\"]F'FAFA-F>6-Q\";F'FAFCFFFH
+FJFLFNFPFR/FVQ,0.2777778emF'" }}{PARA 212 "" 1 "" {XPPMATH 20 "-I#miG6
+#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%Q5output~redirected...F'
+/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 6 "print(" }{TEXT -1 31 "[LABEL REFERENCE NOT SUPPORTE
+D]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 19 "# input placeholder" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",$*$\"%lA#\"\"\"\"\"##\"$`\"\"$b(" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:
+-mo(\"#\", size = \"16\", foreground = \"[255,0,0]\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mi(\"#4\", size = \"16\", italic = \"true\", foreground = \"[
+255,0,0]\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I
+,TypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#16F'/%+foreground
+GQ*[255,0,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorG
+F:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'acce
+ntGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q##4F'F//%'italicGQ%true
+F'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesett
+ing:-mrow(Typesetting:-mo(\"#\", size = \"14\", foreground = \"[0,255,
+0]\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rsp
+ace = \"0.0em\"), Typesetting:-mi(\"##\320\345\361\362\340\360\362\", \+
+size = \"14\", italic = \"true\", foreground = \"[0,255,0]\", mathvari
+ant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sysl
+ibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mat
+hvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*s
+ymmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0
+emF'/%'rspaceGFI-I#miGF$6'Q*##|[x|`y|\\z|]z|[y|[z|]zF'F//%'italicGQ%tr
+ueF'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typese
+tting:-mrow(Typesetting:-mi(\"restart\", italic = \"true\", mathvarian
+t = \"italic\"), Typesetting:-mo(\":\", mathvariant = \"normal\", fenc
+e = \"false\", separator = \"false\", stretchy = \"false\", symmetric \+
+= \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typese
+tting:-mi(\"with\", italic = \"true\", mathvariant = \"italic\"), Type
+setting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"geom3d\", italic \+
+= \"true\", mathvariant = \"italic\")), mathvariant = \"normal\"), Typ
+esetting:-mo(\":\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.2777778em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulename
+G6\"I,TypesettingGI(_syslibGF'6'-I#miGF$6%Q(restartF'/%'italicGQ%trueF
+'/%,mathvariantGQ'italicF'-I#moGF$6-Q\":F'/F3Q'normalF'/%&fenceGQ&fals
+eF'/%*separatorGF=/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.movable
+limitsGF=/%'accentGF=/%'lspaceGQ,0.2777778emF'/%'rspaceGFL-F,6%Q%withF
+'F/F2-I(mfencedGF$6$-F#6#-F,6%Q'geom3dF'F/F2F9F5" }}}{EXCHG {PARA 0 ">
+ " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#\", size =
+ \"14\", foreground = \"[0,255,0]\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"##
+\307\340\342\356\344\350\354 \357\353\356\361\352\356\361\362\350\", s
+ize = \"14\", italic = \"true\", foreground = \"[0,255,0]\", mathvaria
+nt = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sysli
+bGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,math
+variantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*sy
+mmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0e
+mF'/%'rspaceGFI-I#miGF$6'Q4##|bw|[y|]y|iy|_y|cy|gy~|jy|fy|iy|\\z|ey|iy
+|\\z|]z|cyF'F//%'italicGQ%trueF'F2/F6Q'italicF'" }{XPPEDIT 19 1 "" "%#
+%?G" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT -1 31 
+"[LABEL REFERENCE NOT SUPPORTED]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 
+19 "# input placeholder" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Ty
+pesetting:-mrow(Typesetting:-mi(\"plane\", italic = \"true\", mathvari
+ant = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:
+-mi(\"p1\", italic = \"true\", mathvariant = \"italic\"), Typesetting:
+-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"
+true\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.3333333em\"), Typesetting:-mi(\"x\", italic = \"true\", \+
+mathvariant = \"italic\"), Typesetting:-mo(\"&minus;\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.2222
+222em\"), Typesetting:-mn(\"3\", mathvariant = \"normal\"), Typesettin
+g:-mo(\"&sdot;\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"y\", italic = \"true\"
+, mathvariant = \"italic\"), Typesetting:-mo(\"+\", mathvariant = \"no
+rmal\", fence = \"false\", separator = \"false\", stretchy = \"false\"
+, symmetric = \"false\", largeop = \"false\", movablelimits = \"false
+\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.2222222
+em\"), Typesetting:-mn(\"5\", mathvariant = \"normal\"), Typesetting:-
+mo(\"=\", mathvariant = \"normal\", fence = \"false\", separator = \"f
+alse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.277777
+8em\", rspace = \"0.2777778em\"), Typesetting:-mn(\"0\", mathvariant =
+ \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"true\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mfe
+nced(Typesetting:-mrow(Typesetting:-mi(\"x\", italic = \"true\", mathv
+ariant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\",
+ fence = \"false\", separator = \"true\", stretchy = \"false\", symmet
+ric = \"false\", largeop = \"false\", movablelimits = \"false\", accen
+t = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesett
+ing:-mi(\"y\", italic = \"true\", mathvariant = \"italic\"), Typesetti
+ng:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator =
+ \"true\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.3333333em\"), Typesetting:-mi(\"z\", italic = \"true
+\", mathvariant = \"italic\")), mathvariant = \"normal\", open = \"[\"
+, close = \"]\")), mathvariant = \"normal\"), Typesetting:-mo(\":\", m
+athvariant = \"normal\", fence = \"false\", separator = \"false\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspa
+ce = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_
+syslibGF'6%-I#miGF$6%Q&planeF'/%'italicGQ%trueF'/%,mathvariantGQ'itali
+cF'-I(mfencedGF$6$-F#6/-F,6%Q#p1F'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&
+fenceGQ&falseF'/%*separatorGF1/%)stretchyGFE/%*symmetricGFE/%(largeopG
+FE/%.movablelimitsGFE/%'accentGFE/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333
+333emF'-F,6%Q\"xF'F/F2-F>6-Q(&minus;F'FAFC/FGFEFHFJFLFNFP/FSQ,0.222222
+2emF'/FVFjn-I#mnGF$6$Q\"3F'FA-F>6-Q'&sdot;F'FAFCFhnFHFJFLFNFPFR/FVFT-F
+,6%Q\"yF'F/F2-F>6-Q\"+F'FAFCFhnFHFJFLFNFPFinF[o-F]o6$Q\"5F'FA-F>6-Q\"=
+F'FAFCFhnFHFJFLFNFP/FSQ,0.2777778emF'/FVFap-F]o6$Q\"0F'FAF=-F66&-F#6'F
+XF=FdoF=-F,6%Q\"zF'F/F2FA/%%openGQ\"[F'/%&closeGQ\"]F'FA-F>6-Q\":F'FAF
+CFhnFHFJFLFNFPF`pFbp" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "prin
+t(" }{TEXT -1 31 "[LABEL REFERENCE NOT SUPPORTED]" }{MPLTEXT 1 0 3 ");
+ " }{MPLTEXT 1 0 19 "# input placeholder" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"plane\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mfenced(Typesetting:
+-mrow(Typesetting:-mi(\"p2\", italic = \"true\", mathvariant = \"itali
+c\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false
+\", separator = \"true\", stretchy = \"false\", symmetric = \"false\",
+ largeop = \"false\", movablelimits = \"false\", accent = \"false\", l
+space = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"2\", m
+athvariant = \"normal\"), Typesetting:-mo(\" \", mathvariant = \"norma
+l\", fence = \"false\", separator = \"false\", stretchy = \"false\", s
+ymmetric = \"false\", largeop = \"false\", movablelimits = \"false\", \+
+accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetti
+ng:-mo(\"&sdot;\", mathvariant = \"normal\", fence = \"false\", separa
+tor = \"false\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"x\", italic = \"true
+\", mathvariant = \"italic\"), Typesetting:-mo(\" \", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mo(\"&uminus0;\", mathvariant = \"normal\", fence = \"false\"
+, separator = \"false\", stretchy = \"false\", symmetric = \"false\", \+
+largeop = \"false\", movablelimits = \"false\", accent = \"false\", ls
+pace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mi(\"y
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"+
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.2222222em\",
+ rspace = \"0.2222222em\"), Typesetting:-mn(\"5\", mathvariant = \"nor
+mal\"), Typesetting:-mo(\" \", mathvariant = \"normal\", fence = \"fal
+se\", separator = \"false\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\"&sdot;\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"false\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace =
+ \"0.0em\"), Typesetting:-mi(\"z\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mo(\"&minus;\", mathvariant = \"normal\", fe
+nce = \"false\", separator = \"false\", stretchy = \"false\", symmetri
+c = \"false\", largeop = \"false\", movablelimits = \"false\", accent \+
+= \"false\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Type
+setting:-mn(\"16\", mathvariant = \"normal\"), Typesetting:-mo(\"=\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rsp
+ace = \"0.2777778em\"), Typesetting:-mn(\"0\", mathvariant = \"normal
+\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false
+\", separator = \"true\", stretchy = \"false\", symmetric = \"false\",
+ largeop = \"false\", movablelimits = \"false\", accent = \"false\", l
+space = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mfenced(Typ
+esetting:-mrow(Typesetting:-mi(\"x\", italic = \"true\", mathvariant =
+ \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"true\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(
+\"y\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(
+\",\", mathvariant = \"normal\", fence = \"false\", separator = \"true
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rsp
+ace = \"0.3333333em\"), Typesetting:-mi(\"z\", italic = \"true\", math
+variant = \"italic\")), mathvariant = \"normal\", open = \"[\", close \+
+= \"]\")), mathvariant = \"normal\"), Typesetting:-mo(\":\", mathvaria
+nt = \"normal\", fence = \"false\", separator = \"false\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0
+.2777778em\"), Typesetting:-mi(\"\"), Typesetting:-mi(\"\"));" "-I%mro
+wG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6'-I#miGF$6%Q&planeF'/%
+'italicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#66-F,6%Q#p2
+F'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/%
+)stretchyGFE/%*symmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'accentGF
+E/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-I#mnGF$6$Q\"2F'FA-F>6-Q
+\"~F'FAFC/FGFEFHFJFLFNFPFR/FVFT-F>6-Q'&sdot;F'FAFCFinFHFJFLFNFPFRFjn-F
+,6%Q\"xF'F/F2Ffn-F>6-Q*&uminus0;F'FAFCFinFHFJFLFNFP/FSQ,0.2222222emF'/
+FVFeo-F,6%Q\"yF'F/F2-F>6-Q\"+F'FAFCFinFHFJFLFNFPFdoFfo-FY6$Q\"5F'FAFfn
+F[o-F,6%Q\"zF'F/F2-F>6-Q(&minus;F'FAFCFinFHFJFLFNFPFdoFfo-FY6$Q#16F'FA
+-F>6-Q\"=F'FAFCFinFHFJFLFNFP/FSQ,0.2777778emF'/FVF]q-FY6$Q\"0F'FAF=-F6
+6&-F#6'F^oF=FgoF=F`pFA/%%openGQ\"[F'/%&closeGQ\"]F'FA-F>6-Q\":F'FAFCFi
+nFHFJFLFNFPF\\qF^q-F,6#Q!F'F_r" }{XPPEDIT 19 1 "" "%#%?G" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT -1 31 "[LABEL REFEREN
+CE NOT SUPPORTED]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 19 "# input pla
+ceholder" }}}{EXCHG {PARA 0 "" 0 "" {XPPEDIT 2 0 "Typesetting:-mrow(Ty
+pesetting:-mo(\"#\", size = \"14\", foreground = \"[0,255,0]\", mathva
+riant = \"normal\", fence = \"false\", separator = \"false\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0e
+m\"), Typesetting:-mi(\"##\317\356\361\354\356\362\360\350\354 \355\34
+0 \355\350\365\", size = \"14\", italic = \"true\", foreground = \"[0,
+255,0]\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,T
+ypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ
+*[0,255,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:
+/%)stretchyGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'accent
+GF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q3##|jw|iy|\\z|gy|iy|]z|[z
+|cy|gy~|hy|[y~|hy|cy|`zF'F//%'italicGQ%trueF'F2/F6Q'italicF'" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:
+-mi(\"draw\", italic = \"true\", mathvariant = \"italic\"), Typesettin
+g:-mfenced(Typesetting:-mrow(Typesetting:-mfenced(Typesetting:-mrow(Ty
+pesetting:-mi(\"p1\", italic = \"true\", mathvariant = \"italic\"), Ty
+pesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", sepa
+rator = \"true\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(\"p2\", italic =
+ \"true\", mathvariant = \"italic\")), mathvariant = \"normal\", open \+
+= \"[\", close = \"]\"), Typesetting:-mo(\",\", mathvariant = \"normal
+\", fence = \"false\", separator = \"true\", stretchy = \"false\", sym
+metric = \"false\", largeop = \"false\", movablelimits = \"false\", ac
+cent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Types
+etting:-mi(\"axes\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mo(\"=\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mi(\"boxed\",
+ italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"true\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.3333333em\"), Typesetting:-mi(\"scaling\", italic = \"true\", math
+variant = \"italic\"), Typesetting:-mo(\" \", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:
+-mo(\"=\", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.27777
+78em\", rspace = \"0.2777778em\"), Typesetting:-mo(\" \", mathvariant \+
+= \"normal\", fence = \"false\", separator = \"false\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), \+
+Typesetting:-mi(\"constrained\", italic = \"true\", mathvariant = \"it
+alic\")), mathvariant = \"normal\"), Typesetting:-mo(\";\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.277777
+8em\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#m
+iGF$6%Q%drawF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$
+6$-F#6--F66&-F#6%-F,6%Q#p1F'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceG
+Q&falseF'/%*separatorGF1/%)stretchyGFI/%*symmetricGFI/%(largeopGFI/%.m
+ovablelimitsGFI/%'accentGFI/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF
+'-F,6%Q#p2F'F/F2FE/%%openGQ\"[F'/%&closeGQ\"]F'FA-F,6%Q%axesF'F/F2-FB6
+-Q\"=F'FEFG/FKFIFLFNFPFRFT/FWQ,0.2777778emF'/FZFgo-F,6%Q&boxedF'F/F2FA
+-F,6%Q(scalingF'F/F2-FB6-Q\"~F'FEFGFeoFLFNFPFRFTFV/FZFXFboF_p-F,6%Q,co
+nstrainedF'F/F2FE-FB6-Q\";F'FEFGFJFLFNFPFRFTFVFho" }}{PARA 213 "" 1 ""
+ {XPPMATH 20 "-I#miG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%Q5o
+utput~redirected...F'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 2 "%;" }}{PARA 13 "" 1 "" {TEXT 
+210 0 "" }{GLPLOT3D 400 400 400 {PLOTDATA 3 "6+-%)POLYGONSG6hq7&7%$!1K
+LLLLLL$)!#:$!226666666\"!#;$!#5!\"\"7%$!$+\"!\"\"$!2lmmmmmmm\"!#;$!#5!
+\"\"7%$!$+\"!\"\"$!2lmmmmmmm\"!#;$!1yxxxxxxx!#;7%$!1KLLLLLL$)!#:$!2266
+66666\"!#;$!1yxxxxxxx!#;7&7%$!1KLLLLLL$)!#:$!226666666\"!#;$!1yxxxxxxx
+!#;7%$!$+\"!\"\"$!2lmmmmmmm\"!#;$!1yxxxxxxx!#;7%$!$+\"!\"\"$!2lmmmmmmm
+\"!#;$!1cbbbbbbb!#;7%$!1KLLLLLL$)!#:$!226666666\"!#;$!1cbbbbbbb!#;7&7%
+$!1KLLLLLL$)!#:$!226666666\"!#;$!1cbbbbbbb!#;7%$!$+\"!\"\"$!2lmmmmmmm
+\"!#;$!1cbbbbbbb!#;7%$!$+\"!\"\"$!2lmmmmmmm\"!#;$!2PLLLLLLL$!#<7%$!1KL
+LLLLL$)!#:$!226666666\"!#;$!2PLLLLLLL$!#<7&7%$!1KLLLLLL$)!#:$!22666666
+6\"!#;$!2PLLLLLLL$!#<7%$!$+\"!\"\"$!2lmmmmmmm\"!#;$!2PLLLLLLL$!#<7%$!$
++\"!\"\"$!2lmmmmmmm\"!#;$!2;6666666\"!#<7%$!1KLLLLLL$)!#:$!226666666\"
+!#;$!2;6666666\"!#<7&7%$!1KLLLLLL$)!#:$!226666666\"!#;$!2;6666666\"!#<
+7%$!$+\"!\"\"$!2lmmmmmmm\"!#;$!2;6666666\"!#<7%$!$+\"!\"\"$!2lmmmmmmm
+\"!#;$\"206666666\"!#<7%$!1KLLLLLL$)!#:$!226666666\"!#;$\"206666666\"!
+#<7&7%$!1KLLLLLL$)!#:$!226666666\"!#;$\"206666666\"!#<7%$!$+\"!\"\"$!2
+lmmmmmmm\"!#;$\"206666666\"!#<7%$!$+\"!\"\"$!2lmmmmmmm\"!#;$\"2ELLLLLL
+L$!#<7%$!1KLLLLLL$)!#:$!226666666\"!#;$\"2ELLLLLLL$!#<7&7%$!1KLLLLLL$)
+!#:$!226666666\"!#;$\"2ELLLLLLL$!#<7%$!$+\"!\"\"$!2lmmmmmmm\"!#;$\"2EL
+LLLLLL$!#<7%$!$+\"!\"\"$!2lmmmmmmm\"!#;$\"1bbbbbbbb!#;7%$!1KLLLLLL$)!#
+:$!226666666\"!#;$\"1bbbbbbbb!#;7&7%$!1KLLLLLL$)!#:$!226666666\"!#;$\"
+1bbbbbbbb!#;7%$!$+\"!\"\"$!2lmmmmmmm\"!#;$\"1bbbbbbbb!#;7%$!$+\"!\"\"$
+!2lmmmmmmm\"!#;$\"1xxxxxxxx!#;7%$!1KLLLLLL$)!#:$!226666666\"!#;$\"1xxx
+xxxxx!#;7&7%$!1KLLLLLL$)!#:$!226666666\"!#;$\"1xxxxxxxx!#;7%$!$+\"!\"
+\"$!2lmmmmmmm\"!#;$\"1xxxxxxxx!#;7%$!$+\"!\"\"$!2lmmmmmmm\"!#;$\"1)***
+************!#;7%$!1KLLLLLL$)!#:$!226666666\"!#;$\"1****************!#
+;7&7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$!1yxxxxxxx!#;7%$!1yxxxxxxx!#:$!1f
+#f#f#f#f#*!#;$!#5!\"\"7%$!1KLLLLLL$)!#:$!226666666\"!#;$!#5!\"\"7%$!1K
+LLLLLL$)!#:$!226666666\"!#;$!1yxxxxxxx!#;7&7%$!1yxxxxxxx!#:$!1f#f#f#f#
+f#*!#;$!1cbbbbbbb!#;7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$!1yxxxxxxx!#;7%$
+!1KLLLLLL$)!#:$!226666666\"!#;$!1yxxxxxxx!#;7%$!1KLLLLLL$)!#:$!2266666
+66\"!#;$!1cbbbbbbb!#;7&7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$!2PLLLLLLL$!#
+<7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$!1cbbbbbbb!#;7%$!1KLLLLLL$)!#:$!226
+666666\"!#;$!1cbbbbbbb!#;7%$!1KLLLLLL$)!#:$!226666666\"!#;$!2PLLLLLLL$
+!#<7&7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$!2;6666666\"!#<7%$!1yxxxxxxx!#:
+$!1f#f#f#f#f#*!#;$!2PLLLLLLL$!#<7%$!1KLLLLLL$)!#:$!226666666\"!#;$!2PL
+LLLLLL$!#<7%$!1KLLLLLL$)!#:$!226666666\"!#;$!2;6666666\"!#<7&7%$!1yxxx
+xxxx!#:$!1f#f#f#f#f#*!#;$\"206666666\"!#<7%$!1yxxxxxxx!#:$!1f#f#f#f#f#
+*!#;$!2;6666666\"!#<7%$!1KLLLLLL$)!#:$!226666666\"!#;$!2;6666666\"!#<7
+%$!1KLLLLLL$)!#:$!226666666\"!#;$\"206666666\"!#<7&7%$!1yxxxxxxx!#:$!1
+f#f#f#f#f#*!#;$\"2ELLLLLLL$!#<7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"2066
+66666\"!#<7%$!1KLLLLLL$)!#:$!226666666\"!#;$\"206666666\"!#<7%$!1KLLLL
+LL$)!#:$!226666666\"!#;$\"2ELLLLLLL$!#<7&7%$!1yxxxxxxx!#:$!1f#f#f#f#f#
+*!#;$\"1bbbbbbbb!#;7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"2ELLLLLLL$!#<7%
+$!1KLLLLLL$)!#:$!226666666\"!#;$\"2ELLLLLLL$!#<7%$!1KLLLLLL$)!#:$!2266
+66666\"!#;$\"1bbbbbbbb!#;7&7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"1xxxxxx
+xx!#;7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"1bbbbbbbb!#;7%$!1KLLLLLL$)!#:
+$!226666666\"!#;$\"1bbbbbbbb!#;7%$!1KLLLLLL$)!#:$!226666666\"!#;$\"1xx
+xxxxxx!#;7&7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"1****************!#;7%$
+!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"1xxxxxxxx!#;7%$!1KLLLLLL$)!#:$!226666
+666\"!#;$\"1xxxxxxxx!#;7%$!1KLLLLLL$)!#:$!226666666\"!#;$\"1**********
+******!#;7&7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$!1zxxxxxxx!#;7%$!1bbbbbb
+bb!#:$!2&\\=&=&=&=&=!#<$!#5!\"\"7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$!#5!
+\"\"7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$!1yxxxxxxx!#;7&7%$!1bbbbbbbb!#:$
+!2&\\=&=&=&=&=!#<$!1cbbbbbbb!#;7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$!1zx
+xxxxxx!#;7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$!1yxxxxxxx!#;7%$!1yxxxxxxx!
+#:$!1f#f#f#f#f#*!#;$!1cbbbbbbb!#;7&7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$
+!2PLLLLLLL$!#<7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$!1cbbbbbbb!#;7%$!1yxx
+xxxxx!#:$!1f#f#f#f#f#*!#;$!1cbbbbbbb!#;7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!
+#;$!2PLLLLLLL$!#<7&7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$!2<6666666\"!#<7
+%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$!2PLLLLLLL$!#<7%$!1yxxxxxxx!#:$!1f#f
+#f#f#f#*!#;$!2PLLLLLLL$!#<7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$!2;6666666
+\"!#<7&7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$\"206666666\"!#<7%$!1bbbbbbb
+b!#:$!2&\\=&=&=&=&=!#<$!2<6666666\"!#<7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#
+;$!2;6666666\"!#<7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"206666666\"!#<7&7
+%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$\"2ELLLLLLL$!#<7%$!1bbbbbbbb!#:$!2&
+\\=&=&=&=&=!#<$\"206666666\"!#<7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"206
+666666\"!#<7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"2ELLLLLLL$!#<7&7%$!1bbb
+bbbbb!#:$!2&\\=&=&=&=&=!#<$\"1cbbbbbbb!#;7%$!1bbbbbbbb!#:$!2&\\=&=&=&=
+&=!#<$\"2ELLLLLLL$!#<7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"2ELLLLLLL$!#<
+7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"1bbbbbbbb!#;7&7%$!1bbbbbbbb!#:$!2&
+\\=&=&=&=&=!#<$\"1xxxxxxxx!#;7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$\"1cbb
+bbbbb!#;7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"1bbbbbbbb!#;7%$!1yxxxxxxx!
+#:$!1f#f#f#f#f#*!#;$\"1xxxxxxxx!#;7&7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<
+$\"1****************!#;7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$\"1xxxxxxxx!
+#;7%$!1yxxxxxxx!#:$!1f#f#f#f#f#*!#;$\"1xxxxxxxx!#;7%$!1yxxxxxxx!#:$!1f
+#f#f#f#f#*!#;$\"1****************!#;7&7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$
+!1yxxxxxxx!#;7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$!#5!\"\"7%$!1bbbbbbbb!#:$
+!0&=&=&=&=&=!#:$!#5!\"\"7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$!1zxxxxxxx!
+#;7&7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$!1cbbbbbbb!#;7%$!1LLLLLLLL!#:$\"1e
+bbbbbbb!#;$!1yxxxxxxx!#;7%$!1bbbbbbbb!#:$!0&=&=&=&=&=!#:$!1yxxxxxxx!#;
+7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$!1cbbbbbbb!#;7&7%$!1LLLLLLLL!#:$\"1
+ebbbbbbb!#;$!2PLLLLLLL$!#<7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$!1cbbbbbbb!#
+;7%$!1bbbbbbbb!#:$!0&=&=&=&=&=!#:$!1cbbbbbbb!#;7%$!1bbbbbbbb!#:$!2&\\=
+&=&=&=&=!#<$!2PLLLLLLL$!#<7&7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$!2;6666666
+\"!#<7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$!2PLLLLLLL$!#<7%$!1bbbbbbbb!#:$!0
+&=&=&=&=&=!#:$!2PLLLLLLL$!#<7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$!2<6666
+666\"!#<7&7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$\"206666666\"!#<7%$!1LLLLLLL
+L!#:$\"1ebbbbbbb!#;$!2;6666666\"!#<7%$!1bbbbbbbb!#:$!0&=&=&=&=&=!#:$!2
+;6666666\"!#<7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$\"206666666\"!#<7&7%$!
+1LLLLLLLL!#:$\"1ebbbbbbb!#;$\"2ELLLLLLL$!#<7%$!1LLLLLLLL!#:$\"1ebbbbbb
+b!#;$\"206666666\"!#<7%$!1bbbbbbbb!#:$!0&=&=&=&=&=!#:$\"206666666\"!#<
+7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$\"2ELLLLLLL$!#<7&7%$!1LLLLLLLL!#:$
+\"1ebbbbbbb!#;$\"1bbbbbbbb!#;7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$\"2ELLLLL
+LL$!#<7%$!1bbbbbbbb!#:$!0&=&=&=&=&=!#:$\"2ELLLLLLL$!#<7%$!1bbbbbbbb!#:
+$!2&\\=&=&=&=&=!#<$\"1cbbbbbbb!#;7&7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$\"1
+xxxxxxxx!#;7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$\"1bbbbbbbb!#;7%$!1bbbbbbbb
+!#:$!0&=&=&=&=&=!#:$\"1bbbbbbbb!#;7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$
+\"1xxxxxxxx!#;7&7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$\"1)***************!#;
+7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$\"1xxxxxxxx!#;7%$!1bbbbbbbb!#:$!0&=&=&
+=&=&=!#:$\"1xxxxxxxx!#;7%$!1bbbbbbbb!#:$!2&\\=&=&=&=&=!#<$\"1*********
+*******!#;7&7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!#5!\"\"7%$!1LLLLLLLL!
+#:$\"1cbbbbbbb!#;$!#5!\"\"7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$!1yxxxxxxx!#
+;7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!1yxxxxxxx!#;7&7%$!2_mmmmmmm\"!#;
+$\"2;6666666\"!#;$!1yxxxxxxx!#;7%$!1LLLLLLLL!#:$\"1cbbbbbbb!#;$!1xxxxx
+xxx!#;7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$!1cbbbbbbb!#;7%$!2_mmmmmmm\"!#;$
+\"2;6666666\"!#;$!1cbbbbbbb!#;7&7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!1
+cbbbbbbb!#;7%$!1LLLLLLLL!#:$\"1cbbbbbbb!#;$!1cbbbbbbb!#;7%$!1LLLLLLLL!
+#:$\"1ebbbbbbb!#;$!2PLLLLLLL$!#<7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!2
+PLLLLLLL$!#<7&7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!2PLLLLLLL$!#<7%$!1L
+LLLLLLL!#:$\"1cbbbbbbb!#;$!2PLLLLLLL$!#<7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#
+;$!2;6666666\"!#<7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!2;6666666\"!#<7&
+7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!2;6666666\"!#<7%$!1LLLLLLLL!#:$\"
+1cbbbbbbb!#;$!2:6666666\"!#<7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$\"20666666
+6\"!#<7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"206666666\"!#<7&7%$!2_mmmm
+mmm\"!#;$\"2;6666666\"!#;$\"206666666\"!#<7%$!1LLLLLLLL!#:$\"1cbbbbbbb
+!#;$\"2/6666666\"!#<7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$\"2ELLLLLLL$!#<7%$
+!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"2ELLLLLLL$!#<7&7%$!2_mmmmmmm\"!#;$
+\"2;6666666\"!#;$\"2ELLLLLLL$!#<7%$!1LLLLLLLL!#:$\"1cbbbbbbb!#;$\"2ELL
+LLLLL$!#<7%$!1LLLLLLLL!#:$\"1ebbbbbbb!#;$\"1bbbbbbbb!#;7%$!2_mmmmmmm\"
+!#;$\"2;6666666\"!#;$\"1bbbbbbbb!#;7&7%$!2_mmmmmmm\"!#;$\"2;6666666\"!
+#;$\"1bbbbbbbb!#;7%$!1LLLLLLLL!#:$\"1cbbbbbbb!#;$\"1abbbbbbb!#;7%$!1LL
+LLLLLL!#:$\"1ebbbbbbb!#;$\"1xxxxxxxx!#;7%$!2_mmmmmmm\"!#;$\"2;6666666
+\"!#;$\"1xxxxxxxx!#;7&7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"1xxxxxxxx!
+#;7%$!1LLLLLLLL!#:$\"1cbbbbbbb!#;$\"1wxxxxxxx!#;7%$!1LLLLLLLL!#:$\"1eb
+bbbbbb!#;$\"1)***************!#;7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"
+1****************!#;7&7%$!226666666\"!#;$\"2lH'H'H'H'H\"!#;$!1yxxxxxxx
+!#;7%$!226666666\"!#;$\"2lH'H'H'H'H\"!#;$!#5!\"\"7%$!2_mmmmmmm\"!#;$\"
+2;6666666\"!#;$!#5!\"\"7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!1yxxxxxxx!
+#;7&7%$!226666666\"!#;$\"2lH'H'H'H'H\"!#;$!1cbbbbbbb!#;7%$!226666666\"
+!#;$\"2lH'H'H'H'H\"!#;$!1yxxxxxxx!#;7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#
+;$!1yxxxxxxx!#;7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!1cbbbbbbb!#;7&7%$!
+226666666\"!#;$\"2lH'H'H'H'H\"!#;$!2PLLLLLLL$!#<7%$!226666666\"!#;$\"2
+lH'H'H'H'H\"!#;$!1cbbbbbbb!#;7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!1cbb
+bbbbb!#;7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!2PLLLLLLL$!#<7&7%$!226666
+666\"!#;$\"2lH'H'H'H'H\"!#;$!2;6666666\"!#<7%$!226666666\"!#;$\"2lH'H'
+H'H'H\"!#;$!2PLLLLLLL$!#<7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!2PLLLLLL
+L$!#<7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!2;6666666\"!#<7&7%$!22666666
+6\"!#;$\"2lH'H'H'H'H\"!#;$\"206666666\"!#<7%$!226666666\"!#;$\"2lH'H'H
+'H'H\"!#;$!2;6666666\"!#<7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$!2;666666
+6\"!#<7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"206666666\"!#<7&7%$!226666
+666\"!#;$\"2lH'H'H'H'H\"!#;$\"2ELLLLLLL$!#<7%$!226666666\"!#;$\"2lH'H'
+H'H'H\"!#;$\"206666666\"!#<7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"20666
+6666\"!#<7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"2ELLLLLLL$!#<7&7%$!2266
+66666\"!#;$\"2lH'H'H'H'H\"!#;$\"1bbbbbbbb!#;7%$!226666666\"!#;$\"2lH'H
+'H'H'H\"!#;$\"2ELLLLLLL$!#<7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"2ELLL
+LLLL$!#<7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"1bbbbbbbb!#;7&7%$!226666
+666\"!#;$\"2lH'H'H'H'H\"!#;$\"1xxxxxxxx!#;7%$!226666666\"!#;$\"2lH'H'H
+'H'H\"!#;$\"1bbbbbbbb!#;7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"1bbbbbbb
+b!#;7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"1xxxxxxxx!#;7&7%$!226666666
+\"!#;$\"2lH'H'H'H'H\"!#;$\"1****************!#;7%$!226666666\"!#;$\"2l
+H'H'H'H'H\"!#;$\"1xxxxxxxx!#;7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"1xx
+xxxxxx!#;7%$!2_mmmmmmm\"!#;$\"2;6666666\"!#;$\"1****************!#;7&7
+%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$!1zxxxxxxx!#;7%$\"2;6666666\"!#;$\"1
+Pq.Pq.P?!#:$!#5!\"\"7%$!226666666\"!#;$\"2lH'H'H'H'H\"!#;$!#5!\"\"7%$!
+226666666\"!#;$\"2lH'H'H'H'H\"!#;$!1yxxxxxxx!#;7&7%$\"2;6666666\"!#;$
+\"1Pq.Pq.P?!#:$!1cbbbbbbb!#;7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$!1zxxxx
+xxx!#;7%$!226666666\"!#;$\"2lH'H'H'H'H\"!#;$!1yxxxxxxx!#;7%$!226666666
+\"!#;$\"2lH'H'H'H'H\"!#;$!1cbbbbbbb!#;7&7%$\"2;6666666\"!#;$\"1Pq.Pq.P
+?!#:$!2PLLLLLLL$!#<7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$!1cbbbbbbb!#;7%$
+!226666666\"!#;$\"2lH'H'H'H'H\"!#;$!1cbbbbbbb!#;7%$!226666666\"!#;$\"2
+lH'H'H'H'H\"!#;$!2PLLLLLLL$!#<7&7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$!2<
+6666666\"!#<7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$!2PLLLLLLL$!#<7%$!22666
+6666\"!#;$\"2lH'H'H'H'H\"!#;$!2PLLLLLLL$!#<7%$!226666666\"!#;$\"2lH'H'
+H'H'H\"!#;$!2;6666666\"!#<7&7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"20666
+6666\"!#<7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$!2<6666666\"!#<7%$!2266666
+66\"!#;$\"2lH'H'H'H'H\"!#;$!2;6666666\"!#<7%$!226666666\"!#;$\"2lH'H'H
+'H'H\"!#;$\"206666666\"!#<7&7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"2ELLL
+LLLL$!#<7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"206666666\"!#<7%$!2266666
+66\"!#;$\"2lH'H'H'H'H\"!#;$\"206666666\"!#<7%$!226666666\"!#;$\"2lH'H'
+H'H'H\"!#;$\"2ELLLLLLL$!#<7&7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"1cbbb
+bbbb!#;7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"2ELLLLLLL$!#<7%$!226666666
+\"!#;$\"2lH'H'H'H'H\"!#;$\"2ELLLLLLL$!#<7%$!226666666\"!#;$\"2lH'H'H'H
+'H\"!#;$\"1bbbbbbbb!#;7&7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"1xxxxxxxx
+!#;7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"1cbbbbbbb!#;7%$!226666666\"!#;
+$\"2lH'H'H'H'H\"!#;$\"1bbbbbbbb!#;7%$!226666666\"!#;$\"2lH'H'H'H'H\"!#
+;$\"1xxxxxxxx!#;7&7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"1**************
+**!#;7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"1xxxxxxxx!#;7%$!226666666\"!
+#;$\"2lH'H'H'H'H\"!#;$\"1xxxxxxxx!#;7%$!226666666\"!#;$\"2lH'H'H'H'H\"
+!#;$\"1****************!#;7&7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$!1yxxxxxx
+x!#;7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$!#5!\"\"7%$\"2;6666666\"!#;$\"1Pq
+.Pq.P?!#:$!#5!\"\"7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$!1zxxxxxxx!#;7&7%
+$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$!1cbbbbbbb!#;7%$\"1MLLLLLLL!#:$\"1yxxxx
+xxF!#:$!1yxxxxxxx!#;7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$!1yxxxxxxx!#;7%
+$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$!1cbbbbbbb!#;7&7%$\"1MLLLLLLL!#:$\"1y
+xxxxxxF!#:$!2PLLLLLLL$!#<7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$!1cbbbbbbb!#
+;7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$!1cbbbbbbb!#;7%$\"2;6666666\"!#;$
+\"1Pq.Pq.P?!#:$!2PLLLLLLL$!#<7&7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$!2;666
+6666\"!#<7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$!2PLLLLLLL$!#<7%$\"2;6666666
+\"!#;$\"1Pq.Pq.P?!#:$!2PLLLLLLL$!#<7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$
+!2<6666666\"!#<7&7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$\"206666666\"!#<7%$
+\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$!2;6666666\"!#<7%$\"2;6666666\"!#;$\"1Pq
+.Pq.P?!#:$!2;6666666\"!#<7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"20666666
+6\"!#<7&7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$\"2ELLLLLLL$!#<7%$\"1MLLLLLLL
+!#:$\"1yxxxxxxF!#:$\"206666666\"!#<7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$
+\"206666666\"!#<7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"2ELLLLLLL$!#<7&7%
+$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$\"1bbbbbbbb!#;7%$\"1MLLLLLLL!#:$\"1yxxx
+xxxF!#:$\"2ELLLLLLL$!#<7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"2ELLLLLLL$
+!#<7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"1cbbbbbbb!#;7&7%$\"1MLLLLLLL!#
+:$\"1yxxxxxxF!#:$\"1xxxxxxxx!#;7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$\"1bbb
+bbbbb!#;7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"1bbbbbbbb!#;7%$\"2;666666
+6\"!#;$\"1Pq.Pq.P?!#:$\"1xxxxxxxx!#;7&7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:
+$\"1)***************!#;7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$\"1xxxxxxxx!#;
+7%$\"2;6666666\"!#;$\"1Pq.Pq.P?!#:$\"1xxxxxxxx!#;7%$\"2;6666666\"!#;$
+\"1Pq.Pq.P?!#:$\"1****************!#;7&7%$\"1-++++++]!#:$\"1MLLLLLLL!#
+:$!#5!\"\"7%$\"2NLLLLLLL$!#;$\"2xxxxxxxx#!#;$!#5!\"\"7%$\"1MLLLLLLL!#:
+$\"1yxxxxxxF!#:$!1yxxxxxxx!#;7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$!1yxxxxx
+xx!#;7&7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$!1yxxxxxxx!#;7%$\"2NLLLLLLL$!#
+;$\"2xxxxxxxx#!#;$!1xxxxxxxx!#;7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$!1cbbb
+bbbb!#;7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$!1cbbbbbbb!#;7&7%$\"1-++++++]!
+#:$\"1MLLLLLLL!#:$!1cbbbbbbb!#;7%$\"2NLLLLLLL$!#;$\"2xxxxxxxx#!#;$!1cb
+bbbbbb!#;7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$!2PLLLLLLL$!#<7%$\"1-++++++]
+!#:$\"1MLLLLLLL!#:$!2PLLLLLLL$!#<7&7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$!2
+PLLLLLLL$!#<7%$\"2NLLLLLLL$!#;$\"2xxxxxxxx#!#;$!2PLLLLLLL$!#<7%$\"1MLL
+LLLLL!#:$\"1yxxxxxxF!#:$!2;6666666\"!#<7%$\"1-++++++]!#:$\"1MLLLLLLL!#
+:$!2;6666666\"!#<7&7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$!2;6666666\"!#<7%$
+\"2NLLLLLLL$!#;$\"2xxxxxxxx#!#;$!2:6666666\"!#<7%$\"1MLLLLLLL!#:$\"1yx
+xxxxxF!#:$\"206666666\"!#<7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$\"206666666
+\"!#<7&7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$\"206666666\"!#<7%$\"2NLLLLLLL
+$!#;$\"2xxxxxxxx#!#;$\"2/6666666\"!#<7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$
+\"2ELLLLLLL$!#<7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$\"2ELLLLLLL$!#<7&7%$\"
+1-++++++]!#:$\"1MLLLLLLL!#:$\"2ELLLLLLL$!#<7%$\"2NLLLLLLL$!#;$\"2xxxxx
+xxx#!#;$\"2ELLLLLLL$!#<7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$\"1bbbbbbbb!#;
+7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$\"1bbbbbbbb!#;7&7%$\"1-++++++]!#:$\"1
+MLLLLLLL!#:$\"1bbbbbbbb!#;7%$\"2NLLLLLLL$!#;$\"2xxxxxxxx#!#;$\"1abbbbb
+bb!#;7%$\"1MLLLLLLL!#:$\"1yxxxxxxF!#:$\"1xxxxxxxx!#;7%$\"1-++++++]!#:$
+\"1MLLLLLLL!#:$\"1xxxxxxxx!#;7&7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$\"1xxx
+xxxxx!#;7%$\"2NLLLLLLL$!#;$\"2xxxxxxxx#!#;$\"1wxxxxxxx!#;7%$\"1MLLLLLL
+L!#:$\"1yxxxxxxF!#:$\"1)***************!#;7%$\"1-++++++]!#:$\"1MLLLLLL
+L!#:$\"1****************!#;7&7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$!1yxxx
+xxxx!#;7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$!#5!\"\"7%$\"1-++++++]!#:$\"
+2NLLLLLLL$!#;$!#5!\"\"7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$!1yxxxxxxx!#;7&
+7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$!1cbbbbbbb!#;7%$\"1cbbbbbbb!#:$\"1>
+&=&=&=&=N!#:$!1yxxxxxxx!#;7%$\"1-++++++]!#:$\"2NLLLLLLL$!#;$!1yxxxxxxx
+!#;7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$!1cbbbbbbb!#;7&7%$\"1cbbbbbbb!#:$
+\"1>&=&=&=&=N!#:$!2PLLLLLLL$!#<7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$!1cb
+bbbbbb!#;7%$\"1-++++++]!#:$\"2NLLLLLLL$!#;$!1cbbbbbbb!#;7%$\"1-++++++]
+!#:$\"1MLLLLLLL!#:$!2PLLLLLLL$!#<7&7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$
+!2;6666666\"!#<7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$!2PLLLLLLL$!#<7%$\"1
+-++++++]!#:$\"2NLLLLLLL$!#;$!2PLLLLLLL$!#<7%$\"1-++++++]!#:$\"1MLLLLLL
+L!#:$!2;6666666\"!#<7&7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$\"206666666\"
+!#<7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$!2;6666666\"!#<7%$\"1-++++++]!#:
+$\"2NLLLLLLL$!#;$!2;6666666\"!#<7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$\"206
+666666\"!#<7&7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$\"2ELLLLLLL$!#<7%$\"1c
+bbbbbbb!#:$\"1>&=&=&=&=N!#:$\"206666666\"!#<7%$\"1-++++++]!#:$\"2NLLLL
+LLL$!#;$\"206666666\"!#<7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$\"2ELLLLLLL$!
+#<7&7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$\"1bbbbbbbb!#;7%$\"1cbbbbbbb!#:
+$\"1>&=&=&=&=N!#:$\"2ELLLLLLL$!#<7%$\"1-++++++]!#:$\"2NLLLLLLL$!#;$\"2
+ELLLLLLL$!#<7%$\"1-++++++]!#:$\"1MLLLLLLL!#:$\"1bbbbbbbb!#;7&7%$\"1cbb
+bbbbb!#:$\"1>&=&=&=&=N!#:$\"1xxxxxxxx!#;7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=
+N!#:$\"1bbbbbbbb!#;7%$\"1-++++++]!#:$\"2NLLLLLLL$!#;$\"1bbbbbbbb!#;7%$
+\"1-++++++]!#:$\"1MLLLLLLL!#:$\"1xxxxxxxx!#;7&7%$\"1cbbbbbbb!#:$\"1>&=
+&=&=&=N!#:$\"1****************!#;7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$\"
+1xxxxxxxx!#;7%$\"1-++++++]!#:$\"2NLLLLLLL$!#;$\"1xxxxxxxx!#;7%$\"1-+++
++++]!#:$\"1MLLLLLLL!#:$\"1****************!#;7&7%$\"2&zxxxxxxx!#;$\"2&
+f#f#f#f#fU!#;$!1zxxxxxxx!#;7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$!#5!\"
+\"7%$\"1cbbbbbbb!#:$\"2'=&=&=&=&=N!#;$!#5!\"\"7%$\"1cbbbbbbb!#:$\"1>&=
+&=&=&=N!#:$!1yxxxxxxx!#;7&7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$!1cbbbb
+bbb!#;7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$!1zxxxxxxx!#;7%$\"1cbbbbbbb
+!#:$\"2'=&=&=&=&=N!#;$!1yxxxxxxx!#;7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$
+!1cbbbbbbb!#;7&7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$!2PLLLLLLL$!#<7%$
+\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$!1cbbbbbbb!#;7%$\"1cbbbbbbb!#:$\"2'=
+&=&=&=&=N!#;$!1cbbbbbbb!#;7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$!2PLLLLLL
+L$!#<7&7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$!2<6666666\"!#<7%$\"2&zxxx
+xxxx!#;$\"2&f#f#f#f#fU!#;$!2PLLLLLLL$!#<7%$\"1cbbbbbbb!#:$\"2'=&=&=&=&
+=N!#;$!2PLLLLLLL$!#<7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$!2;6666666\"!#<
+7&7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$\"206666666\"!#<7%$\"2&zxxxxxxx
+!#;$\"2&f#f#f#f#fU!#;$!2<6666666\"!#<7%$\"1cbbbbbbb!#:$\"2'=&=&=&=&=N!
+#;$!2;6666666\"!#<7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$\"206666666\"!#<7
+&7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$\"2ELLLLLLL$!#<7%$\"2&zxxxxxxx!#
+;$\"2&f#f#f#f#fU!#;$\"206666666\"!#<7%$\"1cbbbbbbb!#:$\"2'=&=&=&=&=N!#
+;$\"206666666\"!#<7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$\"2ELLLLLLL$!#<7&
+7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$\"1cbbbbbbb!#;7%$\"2&zxxxxxxx!#;$
+\"2&f#f#f#f#fU!#;$\"2ELLLLLLL$!#<7%$\"1cbbbbbbb!#:$\"2'=&=&=&=&=N!#;$
+\"2ELLLLLLL$!#<7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$\"1bbbbbbbb!#;7&7%$
+\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$\"1xxxxxxxx!#;7%$\"2&zxxxxxxx!#;$\"2
+&f#f#f#f#fU!#;$\"1cbbbbbbb!#;7%$\"1cbbbbbbb!#:$\"2'=&=&=&=&=N!#;$\"1bb
+bbbbbb!#;7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$\"1xxxxxxxx!#;7&7%$\"2&zxx
+xxxxx!#;$\"2&f#f#f#f#fU!#;$\"1****************!#;7%$\"2&zxxxxxxx!#;$\"
+2&f#f#f#f#fU!#;$\"1xxxxxxxx!#;7%$\"1cbbbbbbb!#:$\"2'=&=&=&=&=N!#;$\"1x
+xxxxxxx!#;7%$\"1cbbbbbbb!#:$\"1>&=&=&=&=N!#:$\"1****************!#;7&7
+%$\"$+\"!\"\"$\"#]!\"\"$!1yxxxxxxx!#;7%$\"$+\"!\"\"$\"#]!\"\"$!#5!\"\"
+7%$\"1zxxxxxxx!#:$\"2&f#f#f#f#fU!#;$!#5!\"\"7%$\"2&zxxxxxxx!#;$\"2&f#f
+#f#f#fU!#;$!1zxxxxxxx!#;7&7%$\"$+\"!\"\"$\"#]!\"\"$!1cbbbbbbb!#;7%$\"$
++\"!\"\"$\"#]!\"\"$!1yxxxxxxx!#;7%$\"1zxxxxxxx!#:$\"2&f#f#f#f#fU!#;$!1
+yxxxxxxx!#;7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$!1cbbbbbbb!#;7&7%$\"$+
+\"!\"\"$\"#]!\"\"$!2PLLLLLLL$!#<7%$\"$+\"!\"\"$\"#]!\"\"$!1cbbbbbbb!#;
+7%$\"1zxxxxxxx!#:$\"2&f#f#f#f#fU!#;$!1cbbbbbbb!#;7%$\"2&zxxxxxxx!#;$\"
+2&f#f#f#f#fU!#;$!2PLLLLLLL$!#<7&7%$\"$+\"!\"\"$\"#]!\"\"$!2;6666666\"!
+#<7%$\"$+\"!\"\"$\"#]!\"\"$!2PLLLLLLL$!#<7%$\"1zxxxxxxx!#:$\"2&f#f#f#f
+#fU!#;$!2PLLLLLLL$!#<7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$!2<6666666\"
+!#<7&7%$\"$+\"!\"\"$\"#]!\"\"$\"206666666\"!#<7%$\"$+\"!\"\"$\"#]!\"\"
+$!2;6666666\"!#<7%$\"1zxxxxxxx!#:$\"2&f#f#f#f#fU!#;$!2;6666666\"!#<7%$
+\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$\"206666666\"!#<7&7%$\"$+\"!\"\"$\"#
+]!\"\"$\"2ELLLLLLL$!#<7%$\"$+\"!\"\"$\"#]!\"\"$\"206666666\"!#<7%$\"1z
+xxxxxxx!#:$\"2&f#f#f#f#fU!#;$\"206666666\"!#<7%$\"2&zxxxxxxx!#;$\"2&f#
+f#f#f#fU!#;$\"2ELLLLLLL$!#<7&7%$\"$+\"!\"\"$\"#]!\"\"$\"1bbbbbbbb!#;7%
+$\"$+\"!\"\"$\"#]!\"\"$\"2ELLLLLLL$!#<7%$\"1zxxxxxxx!#:$\"2&f#f#f#f#fU
+!#;$\"2ELLLLLLL$!#<7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#fU!#;$\"1cbbbbbbb!#;
+7&7%$\"$+\"!\"\"$\"#]!\"\"$\"1xxxxxxxx!#;7%$\"$+\"!\"\"$\"#]!\"\"$\"1b
+bbbbbbb!#;7%$\"1zxxxxxxx!#:$\"2&f#f#f#f#fU!#;$\"1bbbbbbbb!#;7%$\"2&zxx
+xxxxx!#;$\"2&f#f#f#f#fU!#;$\"1xxxxxxxx!#;7&7%$\"$+\"!\"\"$\"#]!\"\"$\"
+1)***************!#;7%$\"$+\"!\"\"$\"#]!\"\"$\"1xxxxxxxx!#;7%$\"1zxxxx
+xxx!#:$\"2&f#f#f#f#fU!#;$\"1xxxxxxxx!#;7%$\"2&zxxxxxxx!#;$\"2&f#f#f#f#
+fU!#;$\"1****************!#;-%)POLYGONSG6^s7'7%$!1yxxxxxxx!#:$!1yxxxxx
+xx!#:$\"2bbbbbbbv%!#;7%$!1zxxxxxxx!#:$!$+\"!\"\"$\"16666666V!#:7%$!$+
+\"!\"\"$!$+\"!\"\"$\"#_!\"\"7%$!$+\"!\"\"$!1=AAAAAA#)!#:$\"1dbbbbbbb!#
+:7%$!0yxxxxxx*!#9$!1yxxxxxxx!#:$\"1cbbbbbbb!#:7%7%$!0yxxxxxx*!#9$!1yxx
+xxxxx!#:$\"1cbbbbbbb!#:7%$!$+\"!\"\"$!1=AAAAAA#)!#:$\"1dbbbbbbb!#:7%$!
+$+\"!\"\"$!1xxxxxxxx!#:$\"1WWWWWWWc!#:7&7%$!1zxxxxxxx!#:$!1bbbbbbbb!#:
+$\"#_!\"\"7%$!1yxxxxxxx!#:$!1yxxxxxxx!#:$\"2bbbbbbbv%!#;7%$!0yxxxxxx*!
+#9$!1yxxxxxxx!#:$\"1cbbbbbbb!#:7%$!1ommmmmm')!#:$!1bbbbbbbb!#:$\"1cbbb
+bbbb!#:7&7%$!$+\"!\"\"$!1cbbbbbbb!#:$\"1*))))))))))))3'!#:7%$!1ommmmmm
+')!#:$!1bbbbbbbb!#:$\"1cbbbbbbb!#:7%$!0yxxxxxx*!#9$!1yxxxxxxx!#:$\"1cb
+bbbbbb!#:7%$!$+\"!\"\"$!1xxxxxxxx!#:$\"1WWWWWWWc!#:7%7%$!1yxxxxxxx!#:$
+!2Cxxxxxxx$!#;$\"1dbbbbbbb!#:7%$!1yxxxxxxx!#:$!1bbbbbbbb!#:$\"#_!\"\"7
+%$!1ommmmmm')!#:$!1bbbbbbbb!#:$\"1cbbbbbbb!#:7'7%$!1yxxxxxxx!#:$!1LLLL
+LLLL!#:$\"1XWWWWWWc!#:7%$!1zxxxxxxx!#:$!1txxxxxxP!#:$\"1dbbbbbbb!#:7%$
+!1ommmmmm')!#:$!1bbbbbbbb!#:$\"1bbbbbbbb!#:7%$!$+\"!\"\"$!1cbbbbbbb!#:
+$\"1*))))))))))))3'!#:7%$!$+\"!\"\"$!1LLLLLLLL!#:$\"1LLLLLLLl!#:7&7%$!
+1zxxxxxxx!#:$!226666666\"!#;$\"1*))))))))))))3'!#:7%$!$+\"!\"\"$!22666
+6666\"!#;$\"1yxxxxxxp!#:7%$!$+\"!\"\"$!1LLLLLLLL!#:$\"1LLLLLLLl!#:7%$!
+1xxxxxxxx!#:$!1LLLLLLLL!#:$\"1WWWWWWWc!#:7&7%$!1yxxxxxxx!#:$\"2;666666
+6\"!#;$\"1LLLLLLLl!#:7%$!$+\"!\"\"$\"2;6666666\"!#;$\"2DAAAAAAU(!#;7%$
+!$+\"!\"\"$!226666666\"!#;$\"1yxxxxxxp!#:7%$!1zxxxxxxx!#:$!226666666\"
+!#;$\"1*))))))))))))3'!#:7'7%$!1yxxxxxxx!#:$\"1MLLLLLLL!#:$\"1yxxxxxxp
+!#:7%$!1yxxxxxxx!#:$\"2;6666666\"!#;$\"1LLLLLLLl!#:7%$!$+\"!\"\"$\"2;6
+666666\"!#;$\"2DAAAAAAU(!#;7%$!$+\"!\"\"$\"2:*))))))))))))G!#;$\"1zxxx
+xxxx!#:7%$!1zxxxxxx(*!#:$\"1MLLLLLLL!#:$\"1zxxxxxxx!#:7%7%$!1zxxxxxx(*
+!#:$\"1MLLLLLLL!#:$\"1zxxxxxxx!#:7%$!$+\"!\"\"$\"2:*))))))))))))G!#;$
+\"1zxxxxxxx!#:7%$!$+\"!\"\"$\"1MLLLLLLL!#:$\"1nmmmmmmy!#:7&7%$!1zxxxxx
+xx!#:$\"1cbbbbbbb!#:$\"2DAAAAAAU(!#;7%$!1yxxxxxxx!#:$\"1MLLLLLLL!#:$\"
+1yxxxxxxp!#:7%$!1zxxxxxx(*!#:$\"1MLLLLLLL!#:$\"1zxxxxxxx!#:7%$!1ommmmm
+m')!#:$\"1cbbbbbbb!#:$\"1zxxxxxxx!#:7&7%$!$+\"!\"\"$\"1cbbbbbbb!#:$\"0
+666666J)!#97%$!1ommmmmm')!#:$\"1cbbbbbbb!#:$\"1zxxxxxxx!#:7%$!1zxxxxxx
+(*!#:$\"1MLLLLLLL!#:$\"1zxxxxxxx!#:7%$!$+\"!\"\"$\"1MLLLLLLL!#:$\"1nmm
+mmmmy!#:7%7%$!1yxxxxxxx!#:$\"1PLLLLLLt!#:$\"1zxxxxxxx!#:7%$!1yxxxxxxx!
+#:$\"1cbbbbbbb!#:$\"2DAAAAAAU(!#;7%$!1ommmmmm')!#:$\"1cbbbbbbb!#:$\"1z
+xxxxxxx!#:7'7%$!1yxxxxxxx!#:$\"1zxxxxxxx!#:$\"1nmmmmmmy!#:7%$!1yxxxxxx
+x!#:$\"1OLLLLLLt!#:$\"1zxxxxxxx!#:7%$!1ommmmmm')!#:$\"1cbbbbbbb!#:$\"1
+zxxxxxxx!#:7%$!$+\"!\"\"$\"1cbbbbbbb!#:$\"0666666J)!#97%$!$+\"!\"\"$\"
+1yxxxxxxx!#:$\"1bbbbbbb()!#:7&7%$!1zxxxxxxx!#:$\"$+\"!\"\"$\"0666666J)
+!#97%$!$+\"!\"\"$\"$+\"!\"\"$\"##*!\"\"7%$!$+\"!\"\"$\"1zxxxxxxx!#:$\"
+1cbbbbbb()!#:7%$!1yxxxxxxx!#:$\"1zxxxxxxx!#:$\"1nmmmmmmy!#:7&7%$!1bbbb
+bbbb!#:$!1xxxxxxxx!#:$\"2jmmmmmm'Q!#;7%$!1yxxxxxxx!#:$!1yxxxxxxx!#:$\"
+2bbbbbbbv%!#;7%$!1zxxxxxxx!#:$!$+\"!\"\"$\"16666666V!#:7%$!1bbbbbbbb!#
+:$!$+\"!\"\"$\"2;AAAAAAU$!#;7&7%$!1bbbbbbbb!#:$!1bbbbbbbb!#:$\"1666666
+6V!#:7%$!1zxxxxxxx!#:$!1bbbbbbbb!#:$\"#_!\"\"7%$!1yxxxxxxx!#:$!1yxxxxx
+xx!#:$\"2bbbbbbbv%!#;7%$!1bbbbbbbb!#:$!1yxxxxxxx!#:$\"2jmmmmmm'Q!#;7'7
+%$!1bbbbbbbb!#:$!1LLLLLLLL!#:$\"2bbbbbbbv%!#;7%$!1bbbbbbbb!#:$!1bbbbbb
+bb!#:$\"16666666V!#:7%$!1yxxxxxxx!#:$!1bbbbbbbb!#:$\"#_!\"\"7%$!1yxxxx
+xxx!#:$!2Cxxxxxxx$!#;$\"1dbbbbbbb!#:7%$!1ebbbbbbv!#:$!1LLLLLLLL!#:$\"1
+cbbbbbbb!#:7%7%$!1ebbbbbbv!#:$!1LLLLLLLL!#:$\"1cbbbbbbb!#:7%$!1zxxxxxx
+x!#:$!1txxxxxxP!#:$\"1dbbbbbbb!#:7%$!1xxxxxxxx!#:$!1LLLLLLLL!#:$\"1WWW
+WWWWc!#:7&7%$!1bbbbbbbb!#:$!226666666\"!#;$\"#_!\"\"7%$!1bbbbbbbb!#:$!
+1LLLLLLLL!#:$\"2bbbbbbbv%!#;7%$!1ebbbbbbv!#:$!1LLLLLLLL!#:$\"1cbbbbbbb
+!#:7%$!1YWWWWWWk!#:$!226666666\"!#;$\"1cbbbbbbb!#:7&7%$!1zxxxxxxx!#:$!
+226666666\"!#;$\"1*))))))))))))3'!#:7%$!1YWWWWWWk!#:$!226666666\"!#;$
+\"1cbbbbbbb!#:7%$!1ebbbbbbv!#:$!1LLLLLLLL!#:$\"1cbbbbbbb!#:7%$!1xxxxxx
+xx!#:$!1LLLLLLLL!#:$\"1WWWWWWWc!#:7%7%$!1bbbbbbbb!#:$\"1Anmmmmmm!#;$\"
+1dbbbbbbb!#:7%$!1bbbbbbbb!#:$!226666666\"!#;$\"#_!\"\"7%$!1YWWWWWWk!#:
+$!226666666\"!#;$\"1cbbbbbbb!#:7'7%$!1bbbbbbbb!#:$\"2;6666666\"!#;$\"1
+XWWWWWWc!#:7%$!1bbbbbbbb!#:$\"1Anmmmmmm!#;$\"1dbbbbbbb!#:7%$!1YWWWWWWk
+!#:$!226666666\"!#;$\"1bbbbbbbb!#:7%$!1zxxxxxxx!#:$!226666666\"!#;$\"1
+*))))))))))))3'!#:7%$!1yxxxxxxx!#:$\"2;6666666\"!#;$\"1LLLLLLLl!#:7&7%
+$!1bbbbbbbb!#:$\"1MLLLLLLL!#:$\"1*))))))))))))3'!#:7%$!1yxxxxxxx!#:$\"
+1MLLLLLLL!#:$\"1yxxxxxxp!#:7%$!1yxxxxxxx!#:$\"2;6666666\"!#;$\"1LLLLLL
+Ll!#:7%$!1bbbbbbbb!#:$\"2;6666666\"!#;$\"1WWWWWWWc!#:7&7%$!1bbbbbbbb!#
+:$\"1cbbbbbbb!#:$\"1LLLLLLLl!#:7%$!1zxxxxxxx!#:$\"1cbbbbbbb!#:$\"2DAAA
+AAAU(!#;7%$!1yxxxxxxx!#:$\"1MLLLLLLL!#:$\"1yxxxxxxp!#:7%$!1cbbbbbbb!#:
+$\"2WLLLLLLL$!#;$\"1*))))))))))))3'!#:7'7%$!1bbbbbbbb!#:$\"1zxxxxxxx!#
+:$\"1yxxxxxxp!#:7%$!1bbbbbbbb!#:$\"1cbbbbbbb!#:$\"1LLLLLLLl!#:7%$!1yxx
+xxxxx!#:$\"1cbbbbbbb!#:$\"2DAAAAAAU(!#;7%$!1yxxxxxxx!#:$\"1PLLLLLLt!#:
+$\"1zxxxxxxx!#:7%$!1cbbbbbbv!#:$\"1zxxxxxxx!#:$\"1zxxxxxxx!#:7%7%$!1cb
+bbbbbv!#:$\"1zxxxxxxx!#:$\"1zxxxxxxx!#:7%$!1yxxxxxxx!#:$\"1OLLLLLLt!#:
+$\"1zxxxxxxx!#:7%$!1yxxxxxxx!#:$\"1zxxxxxxx!#:$\"1nmmmmmmy!#:7&7%$!1bb
+bbbbbb!#:$\"$+\"!\"\"$\"2DAAAAAAU(!#;7%$!1bbbbbbbb!#:$\"1zxxxxxxx!#:$
+\"1yxxxxxxp!#:7%$!1cbbbbbbv!#:$\"1zxxxxxxx!#:$\"1zxxxxxxx!#:7%$!1YWWWW
+WWk!#:$\"$+\"!\"\"$\"1zxxxxxxx!#:7&7%$!1zxxxxxxx!#:$\"$+\"!\"\"$\"0666
+666J)!#97%$!1YWWWWWWk!#:$\"$+\"!\"\"$\"1zxxxxxxx!#:7%$!1cbbbbbbv!#:$\"
+1zxxxxxxx!#:$\"1zxxxxxxx!#:7%$!1yxxxxxxx!#:$\"1zxxxxxxx!#:$\"1nmmmmmmy
+!#:7&7%$!1LLLLLLLL!#:$!1yxxxxxxx!#:$\"1yxxxxxxH!#:7%$!1LLLLLLLL!#:$!$+
+\"!\"\"$\"2GLLLLLL`#!#;7%$!1PLLLLLL`!#:$!$+\"!\"\"$\"2WLLLLLLL$!#;7%$!
+1DAAAAAAU!#:$!1zxxxxxxx!#:$\"1MLLLLLLL!#:7&7%$!1bbbbbbbb!#:$!1yxxxxxxx
+!#:$\"2jmmmmmm'Q!#;7%$!1DAAAAAAU!#:$!1zxxxxxxx!#:$\"1MLLLLLLL!#:7%$!1P
+LLLLLL`!#:$!$+\"!\"\"$\"2WLLLLLLL$!#;7%$!1bbbbbbbb!#:$!$+\"!\"\"$\"2;A
+AAAAAU$!#;7%7%$!1LLLLLLLL!#:$!1&*************f!#:$\"1MLLLLLLL!#:7%$!1L
+LLLLLLL!#:$!1yxxxxxxx!#:$\"1yxxxxxxH!#:7%$!1DAAAAAAU!#:$!1zxxxxxxx!#:$
+\"1MLLLLLLL!#:7'7%$!1LLLLLLLL!#:$!1bbbbbbbb!#:$\"1AAAAAAAM!#:7%$!1LLLL
+LLLL!#:$!1&*************f!#:$\"1MLLLLLLL!#:7%$!1DAAAAAAU!#:$!1zxxxxxxx
+!#:$\"1MLLLLLLL!#:7%$!1bbbbbbbb!#:$!1yxxxxxxx!#:$\"2jmmmmmm'Q!#;7%$!1b
+bbbbbbb!#:$!1bbbbbbbb!#:$\"16666666V!#:7&7%$!1LLLLLLLL!#:$!1LLLLLLLL!#
+:$\"2jmmmmmm'Q!#;7%$!1bbbbbbbb!#:$!1LLLLLLLL!#:$\"2bbbbbbbv%!#;7%$!1bb
+bbbbbb!#:$!1bbbbbbbb!#:$\"16666666V!#:7%$!1LLLLLLLL!#:$!1bbbbbbbb!#:$
+\"2;AAAAAAU$!#;7&7%$!1LLLLLLLL!#:$!226666666\"!#;$\"16666666V!#:7%$!1b
+bbbbbbb!#:$!226666666\"!#;$\"#_!\"\"7%$!1bbbbbbbb!#:$!1LLLLLLLL!#:$\"2
+bbbbbbbv%!#;7%$!1LLLLLLLL!#:$!1LLLLLLLL!#:$\"2jmmmmmm'Q!#;7'7%$!1LLLLL
+LLL!#:$\"2;6666666\"!#;$\"2bbbbbbbv%!#;7%$!1LLLLLLLL!#:$!226666666\"!#
+;$\"16666666V!#:7%$!1bbbbbbbb!#:$!226666666\"!#;$\"#_!\"\"7%$!1bbbbbbb
+b!#:$\"1Anmmmmmm!#;$\"1dbbbbbbb!#:7%$!1OLLLLLL`!#:$\"2;6666666\"!#;$\"
+1cbbbbbbb!#:7%7%$!1OLLLLLL`!#:$\"2;6666666\"!#;$\"1cbbbbbbb!#:7%$!1bbb
+bbbbb!#:$\"1Anmmmmmm!#;$\"1dbbbbbbb!#:7%$!1bbbbbbbb!#:$\"2;6666666\"!#
+;$\"1WWWWWWWc!#:7&7%$!1LLLLLLLL!#:$\"1MLLLLLLL!#:$\"#_!\"\"7%$!1LLLLLL
+LL!#:$\"2;6666666\"!#;$\"2bbbbbbbv%!#;7%$!1OLLLLLL`!#:$\"2;6666666\"!#
+;$\"1cbbbbbbb!#:7%$!1CAAAAAAU!#:$\"1MLLLLLLL!#:$\"1cbbbbbbb!#:7&7%$!1c
+bbbbbbb!#:$\"2WLLLLLLL$!#;$\"1*))))))))))))3'!#:7%$!1CAAAAAAU!#:$\"1ML
+LLLLLL!#:$\"1cbbbbbbb!#:7%$!1OLLLLLL`!#:$\"2;6666666\"!#;$\"1cbbbbbbb!
+#:7%$!1bbbbbbbb!#:$\"2;6666666\"!#;$\"1WWWWWWWc!#:7%7%$!1LLLLLLLL!#:$
+\"1<666666^!#:$\"1dbbbbbbb!#:7%$!1LLLLLLLL!#:$\"1MLLLLLLL!#:$\"#_!\"\"
+7%$!1CAAAAAAU!#:$\"1MLLLLLLL!#:$\"1cbbbbbbb!#:7'7%$!1LLLLLLLL!#:$\"1cb
+bbbbbb!#:$\"1XWWWWWWc!#:7%$!1LLLLLLLL!#:$\"1<666666^!#:$\"1dbbbbbbb!#:
+7%$!1CAAAAAAU!#:$\"1MLLLLLLL!#:$\"1bbbbbbbb!#:7%$!1cbbbbbbb!#:$\"2WLLL
+LLLL$!#;$\"1*))))))))))))3'!#:7%$!1bbbbbbbb!#:$\"1cbbbbbbb!#:$\"1LLLLL
+LLl!#:7&7%$!1LLLLLLLL!#:$\"1zxxxxxxx!#:$\"1*))))))))))))3'!#:7%$!1bbbb
+bbbb!#:$\"1zxxxxxxx!#:$\"1yxxxxxxp!#:7%$!1bbbbbbbb!#:$\"1cbbbbbbb!#:$
+\"1LLLLLLLl!#:7%$!1LLLLLLLL!#:$\"1cbbbbbbb!#:$\"1WWWWWWWc!#:7&7%$!1LLL
+LLLLL!#:$\"$+\"!\"\"$\"1LLLLLLLl!#:7%$!1bbbbbbbb!#:$\"$+\"!\"\"$\"2DAA
+AAAAU(!#;7%$!1bbbbbbbb!#:$\"1zxxxxxxx!#:$\"1yxxxxxxp!#:7%$!1LLLLLLLL!#
+:$\"1zxxxxxxx!#:$\"1*))))))))))))3'!#:7&7%$!226666666\"!#;$!1zxxxxxxx!
+#:$\"2')))))))))))))3#!#;7%$!1LLLLLLLL!#:$!1yxxxxxxx!#:$\"1yxxxxxxH!#:
+7%$!1LLLLLLLL!#:$!$+\"!\"\"$\"2GLLLLLL`#!#;7%$!226666666\"!#;$!$+\"!\"
+\"$\"2WWWWWWWk\"!#;7'7%$!226666666\"!#;$!1bbbbbbbb!#:$\"2GLLLLLL`#!#;7
+%$!226666666\"!#;$!1zxxxxxxx!#:$\"2')))))))))))))3#!#;7%$!1LLLLLLLL!#:
+$!1yxxxxxxx!#:$\"1yxxxxxxH!#:7%$!1LLLLLLLL!#:$!1&*************f!#:$\"1
+MLLLLLLL!#:7%$!19666666J!#:$!1cbbbbbbb!#:$\"2WLLLLLLL$!#;7%7%$!1966666
+6J!#:$!1cbbbbbbb!#:$\"2WLLLLLLL$!#;7%$!1LLLLLLLL!#:$!1&*************f!
+#:$\"1MLLLLLLL!#:7%$!1LLLLLLLL!#:$!1bbbbbbbb!#:$\"2;AAAAAAU$!#;7&7%$!2
+26666666\"!#;$!1LLLLLLLL!#:$\"1yxxxxxxH!#:7%$!226666666\"!#;$!1bbbbbbb
+b!#:$\"2GLLLLLL`#!#;7%$!19666666J!#:$!1cbbbbbbb!#:$\"2WLLLLLLL$!#;7%$!
+1-++++++?!#:$!1LLLLLLLL!#:$\"1MLLLLLLL!#:7&7%$!1LLLLLLLL!#:$!1LLLLLLLL
+!#:$\"2jmmmmmm'Q!#;7%$!1-++++++?!#:$!1LLLLLLLL!#:$\"1MLLLLLLL!#:7%$!19
+666666J!#:$!1cbbbbbbb!#:$\"2WLLLLLLL$!#;7%$!1LLLLLLLL!#:$!1bbbbbbbb!#:
+$\"2;AAAAAAU$!#;7%7%$!226666666\"!#;$!0bbbbbbb\"!#9$\"1MLLLLLLL!#:7%$!
+226666666\"!#;$!1LLLLLLLL!#:$\"1yxxxxxxH!#:7%$!1-++++++?!#:$!1LLLLLLLL
+!#:$\"1MLLLLLLL!#:7'7%$!226666666\"!#;$!226666666\"!#;$\"1AAAAAAAM!#:7
+%$!226666666\"!#;$!2.bbbbbbb\"!#;$\"1MLLLLLLL!#:7%$!1-++++++?!#:$!1LLL
+LLLLL!#:$\"1MLLLLLLL!#:7%$!1LLLLLLLL!#:$!1LLLLLLLL!#:$\"2jmmmmmm'Q!#;7
+%$!1LLLLLLLL!#:$!226666666\"!#;$\"16666666V!#:7&7%$!226666666\"!#;$\"2
+;6666666\"!#;$\"2jmmmmmm'Q!#;7%$!1LLLLLLLL!#:$\"2;6666666\"!#;$\"2bbbb
+bbbv%!#;7%$!1LLLLLLLL!#:$!226666666\"!#;$\"16666666V!#:7%$!206666666\"
+!#;$!206666666\"!#;$\"2;AAAAAAU$!#;7&7%$!226666666\"!#;$\"1MLLLLLLL!#:
+$\"16666666V!#:7%$!1LLLLLLLL!#:$\"1MLLLLLLL!#:$\"#_!\"\"7%$!1LLLLLLLL!
+#:$\"2;6666666\"!#;$\"2bbbbbbbv%!#;7%$!226666666\"!#;$\"2;6666666\"!#;
+$\"2jmmmmmm'Q!#;7'7%$!226666666\"!#;$\"1cbbbbbbb!#:$\"2bbbbbbbv%!#;7%$
+!226666666\"!#;$\"1MLLLLLLL!#:$\"16666666V!#:7%$!1LLLLLLLL!#:$\"1MLLLL
+LLL!#:$\"#_!\"\"7%$!1LLLLLLLL!#:$\"1<666666^!#:$\"1dbbbbbbb!#:7%$!2M66
+66666$!#;$\"1cbbbbbbb!#:$\"1cbbbbbbb!#:7%7%$!2M6666666$!#;$\"1cbbbbbbb
+!#:$\"1cbbbbbbb!#:7%$!1LLLLLLLL!#:$\"1<666666^!#:$\"1dbbbbbbb!#:7%$!1L
+LLLLLLL!#:$\"1cbbbbbbb!#:$\"1WWWWWWWc!#:7&7%$!226666666\"!#;$\"1zxxxxx
+xx!#:$\"#_!\"\"7%$!226666666\"!#;$\"1cbbbbbbb!#:$\"2bbbbbbbv%!#;7%$!2M
+6666666$!#;$\"1cbbbbbbb!#:$\"1cbbbbbbb!#:7%$!2=+++++++#!#;$\"1zxxxxxxx
+!#:$\"1cbbbbbbb!#:7&7%$!1LLLLLLLL!#:$\"1zxxxxxxx!#:$\"1*))))))))))))3'
+!#:7%$!2=+++++++#!#;$\"1zxxxxxxx!#:$\"1cbbbbbbb!#:7%$!2M6666666$!#;$\"
+1cbbbbbbb!#:$\"1cbbbbbbb!#:7%$!1LLLLLLLL!#:$\"1cbbbbbbb!#:$\"1WWWWWWWc
+!#:7%7%$!226666666\"!#;$\"0cbbbbbb*!#9$\"1dbbbbbbb!#:7%$!226666666\"!#
+;$\"1zxxxxxxx!#:$\"#_!\"\"7%$!2=+++++++#!#;$\"1zxxxxxxx!#:$\"1cbbbbbbb
+!#:7'7%$!226666666\"!#;$\"$+\"!\"\"$\"1XWWWWWWc!#:7%$!226666666\"!#;$
+\"0cbbbbbb*!#9$\"1dbbbbbbb!#:7%$!2=+++++++#!#;$\"1zxxxxxxx!#:$\"1bbbbb
+bbb!#:7%$!1LLLLLLLL!#:$\"1zxxxxxxx!#:$\"1*))))))))))))3'!#:7%$!1LLLLLL
+LL!#:$\"$+\"!\"\"$\"1LLLLLLLl!#:7%7%$\"2;6666666\"!#;$!0AAAAAAA)!#9$\"
+2;6666666\"!#;7%$\"2;6666666\"!#;$!$+\"!\"\"$\"1_bbbbbbv!#;7%$\"2)3AAA
+AAAA!#<$!$+\"!\"\"$\"2;6666666\"!#;7'7%$\"2;6666666\"!#;$!1yxxxxxxx!#:
+$\"2-++++++?\"!#;7%$\"2;6666666\"!#;$!0AAAAAAA)!#9$\"2;6666666\"!#;7%$
+\"2)3AAAAAAA!#<$!$+\"!\"\"$\"2;6666666\"!#;7%$!226666666\"!#;$!$+\"!\"
+\"$\"2WWWWWWWk\"!#;7%$!226666666\"!#;$!1zxxxxxxx!#:$\"2')))))))))))))3
+#!#;7&7%$\"2;6666666\"!#;$!1bbbbbbbb!#:$\"2WWWWWWWk\"!#;7%$!226666666
+\"!#;$!1bbbbbbbb!#:$\"2GLLLLLL`#!#;7%$!226666666\"!#;$!1zxxxxxxx!#:$\"
+2')))))))))))))3#!#;7%$\"2;6666666\"!#;$!1yxxxxxxx!#:$\"2-++++++?\"!#;
+7&7%$\"2;6666666\"!#;$!1LLLLLLLL!#:$\"2')))))))))))))3#!#;7%$!22666666
+6\"!#;$!1LLLLLLLL!#:$\"1yxxxxxxH!#:7%$!226666666\"!#;$!1bbbbbbbb!#:$\"
+2GLLLLLL`#!#;7%$\"2;6666666\"!#;$!1bbbbbbbb!#:$\"2WWWWWWWk\"!#;7'7%$\"
+2;6666666\"!#;$!226666666\"!#;$\"2GLLLLLL`#!#;7%$\"2;6666666\"!#;$!1LL
+LLLLLL!#:$\"2')))))))))))))3#!#;7%$!226666666\"!#;$!1LLLLLLLL!#:$\"1yx
+xxxxxH!#:7%$!226666666\"!#;$!0bbbbbbb\"!#9$\"1MLLLLLLL!#:7%$!18*))))))
+)))))))!#;$!166666666!#:$\"2WLLLLLLL$!#;7%7%$!18*)))))))))))))!#;$!166
+666666!#:$\"2WLLLLLLL$!#;7%$!226666666\"!#;$!2.bbbbbbb\"!#;$\"1MLLLLLL
+L!#:7%$!206666666\"!#;$!206666666\"!#;$\"2;AAAAAAU$!#;7&7%$\"2;6666666
+\"!#;$\"2;6666666\"!#;$\"1yxxxxxxH!#:7%$\"2;6666666\"!#;$!226666666\"!
+#;$\"2GLLLLLL`#!#;7%$!18*)))))))))))))!#;$!166666666!#:$\"2WLLLLLLL$!#
+;7%$\"1-AAAAAAA!#;$\"2;6666666\"!#;$\"1MLLLLLLL!#:7&7%$!226666666\"!#;
+$\"2;6666666\"!#;$\"2jmmmmmm'Q!#;7%$\"1-AAAAAAA!#;$\"2;6666666\"!#;$\"
+1MLLLLLLL!#:7%$!18*)))))))))))))!#;$!166666666!#:$\"2WLLLLLLL$!#;7%$!2
+06666666\"!#;$!206666666\"!#;$\"2;AAAAAAU$!#;7%7%$\"2;6666666\"!#;$\"1
+%*))))))))))))G!#:$\"1MLLLLLLL!#:7%$\"2;6666666\"!#;$\"2;6666666\"!#;$
+\"1yxxxxxxH!#:7%$\"1-AAAAAAA!#;$\"2;6666666\"!#;$\"1MLLLLLLL!#:7'7%$\"
+2;6666666\"!#;$\"1MLLLLLLL!#:$\"1AAAAAAAM!#:7%$\"2;6666666\"!#;$\"1%*)
+)))))))))))G!#:$\"1MLLLLLLL!#:7%$\"1-AAAAAAA!#;$\"2;6666666\"!#;$\"1ML
+LLLLLL!#:7%$!226666666\"!#;$\"2;6666666\"!#;$\"2jmmmmmm'Q!#;7%$!226666
+666\"!#;$\"1MLLLLLLL!#:$\"16666666V!#:7&7%$\"2;6666666\"!#;$\"1cbbbbbb
+b!#:$\"2jmmmmmm'Q!#;7%$!226666666\"!#;$\"1cbbbbbbb!#:$\"2bbbbbbbv%!#;7
+%$!226666666\"!#;$\"1MLLLLLLL!#:$\"16666666V!#:7%$\"2;6666666\"!#;$\"1
+MLLLLLLL!#:$\"2;AAAAAAU$!#;7&7%$\"2;6666666\"!#;$\"1zxxxxxxx!#:$\"1666
+6666V!#:7%$!226666666\"!#;$\"1zxxxxxxx!#:$\"#_!\"\"7%$!226666666\"!#;$
+\"1cbbbbbbb!#:$\"2bbbbbbbv%!#;7%$\"2;6666666\"!#;$\"1cbbbbbbb!#:$\"2jm
+mmmmm'Q!#;7'7%$\"2;6666666\"!#;$\"$+\"!\"\"$\"2bbbbbbbv%!#;7%$\"2;6666
+666\"!#;$\"1zxxxxxxx!#:$\"16666666V!#:7%$!226666666\"!#;$\"1zxxxxxxx!#
+:$\"#_!\"\"7%$!226666666\"!#;$\"0cbbbbbb*!#9$\"1dbbbbbbb!#:7%$!18*))))
+)))))))))!#;$\"$+\"!\"\"$\"1cbbbbbbb!#:7%7%$!18*)))))))))))))!#;$\"$+
+\"!\"\"$\"1cbbbbbbb!#:7%$!226666666\"!#;$\"0cbbbbbb*!#9$\"1dbbbbbbb!#:
+7%$!206666666\"!#;$\"$+\"!\"\"$\"1WWWWWWWc!#:7'7%$\"1MLLLLLLL!#:$!1yxx
+xxxxx!#:$\"2%3666666J!#<7%$\"1MLLLLLLL!#:$!$+\"!\"\"$!2`LLLLLLL\"!#<7%
+$\"2;6666666\"!#;$!$+\"!\"\"$\"1_bbbbbbv!#;7%$\"2;6666666\"!#;$!0AAAAA
+AA)!#9$\"2;6666666\"!#;7%$\"1LLLLLLL8!#:$!1yxxxxxxx!#:$\"2;6666666\"!#
+;7%7%$\"1LLLLLLL8!#:$!1yxxxxxxx!#:$\"2;6666666\"!#;7%$\"2;6666666\"!#;
+$!0AAAAAAA)!#9$\"2;6666666\"!#;7%$\"2;6666666\"!#;$!1yxxxxxxx!#:$\"2-+
++++++?\"!#;7&7%$\"1MLLLLLLL!#:$!1bbbbbbbb!#:$\"1_bbbbbbv!#;7%$\"1MLLLL
+LLL!#:$!1yxxxxxxx!#:$\"2%3666666J!#<7%$\"1LLLLLLL8!#:$!1yxxxxxxx!#:$\"
+2;6666666\"!#;7%$\"2LWWWWWWW#!#;$!1bbbbbbbb!#:$\"2;6666666\"!#;7&7%$\"
+2;6666666\"!#;$!1bbbbbbbb!#:$\"2WWWWWWWk\"!#;7%$\"2LWWWWWWW#!#;$!1bbbb
+bbbb!#:$\"2;6666666\"!#;7%$\"1LLLLLLL8!#:$!1yxxxxxxx!#:$\"2;6666666\"!
+#;7%$\"2;6666666\"!#;$!1yxxxxxxx!#:$\"2-++++++?\"!#;7%7%$\"1MLLLLLLL!#
+:$!2bxxxxxxx$!#;$\"2;6666666\"!#;7%$\"1MLLLLLLL!#:$!1bbbbbbbb!#:$\"1_b
+bbbbbv!#;7%$\"2LWWWWWWW#!#;$!1bbbbbbbb!#:$\"2;6666666\"!#;7'7%$\"1MLLL
+LLLL!#:$!1LLLLLLLL!#:$\"2-++++++?\"!#;7%$\"1MLLLLLLL!#:$!2bxxxxxxx$!#;
+$\"2;6666666\"!#;7%$\"2LWWWWWWW#!#;$!1bbbbbbbb!#:$\"2;6666666\"!#;7%$
+\"2;6666666\"!#;$!1bbbbbbbb!#:$\"2WWWWWWWk\"!#;7%$\"2;6666666\"!#;$!1L
+LLLLLLL!#:$\"2')))))))))))))3#!#;7&7%$\"1MLLLLLLL!#:$!226666666\"!#;$
+\"2WWWWWWWk\"!#;7%$\"2;6666666\"!#;$!226666666\"!#;$\"2GLLLLLL`#!#;7%$
+\"2;6666666\"!#;$!1LLLLLLLL!#:$\"2')))))))))))))3#!#;7%$\"1MLLLLLLL!#:
+$!1LLLLLLLL!#:$\"2-++++++?\"!#;7&7%$\"1MLLLLLLL!#:$\"2;6666666\"!#;$\"
+2')))))))))))))3#!#;7%$\"2;6666666\"!#;$\"2;6666666\"!#;$\"1yxxxxxxH!#
+:7%$\"2;6666666\"!#;$!226666666\"!#;$\"2GLLLLLL`#!#;7%$\"1MLLLLLLL!#:$
+!226666666\"!#;$\"2WWWWWWWk\"!#;7'7%$\"1MLLLLLLL!#:$\"1MLLLLLLL!#:$\"2
+GLLLLLL`#!#;7%$\"1MLLLLLLL!#:$\"2;6666666\"!#;$\"2')))))))))))))3#!#;7
+%$\"2;6666666\"!#;$\"2;6666666\"!#;$\"1yxxxxxxH!#:7%$\"2;6666666\"!#;$
+\"1%*))))))))))))G!#:$\"1MLLLLLLL!#:7%$\"28LLLLLLL\"!#;$\"2WLLLLLLL$!#
+;$\"2WLLLLLLL$!#;7%7%$\"28LLLLLLL\"!#;$\"2WLLLLLLL$!#;$\"2WLLLLLLL$!#;
+7%$\"2;6666666\"!#;$\"1%*))))))))))))G!#:$\"1MLLLLLLL!#:7%$\"2;6666666
+\"!#;$\"1MLLLLLLL!#:$\"2;AAAAAAU$!#;7&7%$\"1MLLLLLLL!#:$\"1cbbbbbbb!#:
+$\"1yxxxxxxH!#:7%$\"1MLLLLLLL!#:$\"1MLLLLLLL!#:$\"2GLLLLLL`#!#;7%$\"28
+LLLLLLL\"!#;$\"2WLLLLLLL$!#;$\"2WLLLLLLL$!#;7%$\"2CWWWWWWW#!#;$\"1cbbb
+bbbb!#:$\"1MLLLLLLL!#:7&7%$\"2;6666666\"!#;$\"1cbbbbbbb!#:$\"2jmmmmmm'
+Q!#;7%$\"2CWWWWWWW#!#;$\"1cbbbbbbb!#:$\"1MLLLLLLL!#:7%$\"28LLLLLLL\"!#
+;$\"2WLLLLLLL$!#;$\"2WLLLLLLL$!#;7%$\"2;6666666\"!#;$\"1MLLLLLLL!#:$\"
+2;AAAAAAU$!#;7%7%$\"1MLLLLLLL!#:$\"1RLLLLLLt!#:$\"1MLLLLLLL!#:7%$\"1ML
+LLLLLL!#:$\"1cbbbbbbb!#:$\"1yxxxxxxH!#:7%$\"2CWWWWWWW#!#;$\"1cbbbbbbb!
+#:$\"1MLLLLLLL!#:7'7%$\"1MLLLLLLL!#:$\"1zxxxxxxx!#:$\"1AAAAAAAM!#:7%$
+\"1MLLLLLLL!#:$\"1RLLLLLLt!#:$\"1MLLLLLLL!#:7%$\"2CWWWWWWW#!#;$\"1cbbb
+bbbb!#:$\"1MLLLLLLL!#:7%$\"2;6666666\"!#;$\"1cbbbbbbb!#:$\"2jmmmmmm'Q!
+#;7%$\"2;6666666\"!#;$\"1zxxxxxxx!#:$\"16666666V!#:7&7%$\"1MLLLLLLL!#:
+$\"$+\"!\"\"$\"2jmmmmmm'Q!#;7%$\"2;6666666\"!#;$\"$+\"!\"\"$\"2bbbbbbb
+v%!#;7%$\"2;6666666\"!#;$\"1zxxxxxxx!#:$\"16666666V!#:7%$\"1MLLLLLLL!#
+:$\"1yxxxxxxx!#:$\"2;AAAAAAU$!#;7&7%$\"1cbbbbbbb!#:$!1zxxxxxxx!#:$!0yx
+xxxxx&!#:7%$\"1MLLLLLLL!#:$!1yxxxxxxx!#:$\"2%3666666J!#<7%$\"1MLLLLLLL
+!#:$!$+\"!\"\"$!2`LLLLLLL\"!#<7%$\"1cbbbbbbb!#:$!$+\"!\"\"$!2EAAAAAA-
+\"!#;7&7%$\"1cbbbbbbb!#:$!1bbbbbbbb!#:$!2`LLLLLLL\"!#<7%$\"1MLLLLLLL!#
+:$!1bbbbbbbb!#:$\"1_bbbbbbv!#;7%$\"1MLLLLLLL!#:$!1yxxxxxxx!#:$\"2%3666
+666J!#<7%$\"1cbbbbbbb!#:$!1zxxxxxxx!#:$!0yxxxxxx&!#:7'7%$\"1cbbbbbbb!#
+:$!1LLLLLLLL!#:$\"2%3666666J!#<7%$\"1cbbbbbbb!#:$!1bbbbbbbb!#:$!2`LLLL
+LLL\"!#<7%$\"1MLLLLLLL!#:$!1bbbbbbbb!#:$\"1_bbbbbbv!#;7%$\"1MLLLLLLL!#
+:$!2bxxxxxxx$!#;$\"2;6666666\"!#;7%$\"2abbbbbbb$!#;$!1LLLLLLLL!#:$\"2;
+6666666\"!#;7%7%$\"2abbbbbbb$!#;$!1LLLLLLLL!#:$\"2;6666666\"!#;7%$\"1M
+LLLLLLL!#:$!2bxxxxxxx$!#;$\"2;6666666\"!#;7%$\"1MLLLLLLL!#:$!1LLLLLLLL
+!#:$\"2-++++++?\"!#;7&7%$\"1cbbbbbbb!#:$!226666666\"!#;$\"1_bbbbbbv!#;
+7%$\"1cbbbbbbb!#:$!1LLLLLLLL!#:$\"2%3666666J!#<7%$\"2abbbbbbb$!#;$!1LL
+LLLLLL!#:$\"2;6666666\"!#;7%$\"1mmmmmmmY!#:$!226666666\"!#;$\"2;666666
+6\"!#;7&7%$\"1MLLLLLLL!#:$!226666666\"!#;$\"2WWWWWWWk\"!#;7%$\"1mmmmmm
+mY!#:$!226666666\"!#;$\"2;6666666\"!#;7%$\"2abbbbbbb$!#;$!1LLLLLLLL!#:
+$\"2;6666666\"!#;7%$\"1MLLLLLLL!#:$!1LLLLLLLL!#:$\"2-++++++?\"!#;7%7%$
+\"1cbbbbbbb!#:$\"1#pmmmmmm'!#;$\"2;6666666\"!#;7%$\"1cbbbbbbb!#:$!2266
+66666\"!#;$\"1_bbbbbbv!#;7%$\"1mmmmmmmY!#:$!226666666\"!#;$\"2;6666666
+\"!#;7'7%$\"1cbbbbbbb!#:$\"2;6666666\"!#;$\"2-++++++?\"!#;7%$\"1bbbbbb
+bb!#:$\"1#pmmmmmm'!#;$\"2;6666666\"!#;7%$\"1mmmmmmmY!#:$!226666666\"!#
+;$\"2;6666666\"!#;7%$\"1MLLLLLLL!#:$!226666666\"!#;$\"2WWWWWWWk\"!#;7%
+$\"1MLLLLLLL!#:$\"2;6666666\"!#;$\"2')))))))))))))3#!#;7&7%$\"1cbbbbbb
+b!#:$\"1MLLLLLLL!#:$\"2WWWWWWWk\"!#;7%$\"1MLLLLLLL!#:$\"1MLLLLLLL!#:$
+\"2GLLLLLL`#!#;7%$\"1MLLLLLLL!#:$\"2;6666666\"!#;$\"2')))))))))))))3#!
+#;7%$\"1cbbbbbbb!#:$\"2;6666666\"!#;$\"2-++++++?\"!#;7&7%$\"1cbbbbbbb!
+#:$\"1cbbbbbbb!#:$\"2')))))))))))))3#!#;7%$\"1MLLLLLLL!#:$\"1cbbbbbbb!
+#:$\"1yxxxxxxH!#:7%$\"1MLLLLLLL!#:$\"1MLLLLLLL!#:$\"2GLLLLLL`#!#;7%$\"
+1cbbbbbbb!#:$\"1MLLLLLLL!#:$\"2WWWWWWWk\"!#;7'7%$\"1cbbbbbbb!#:$\"1zxx
+xxxxx!#:$\"2GLLLLLL`#!#;7%$\"1cbbbbbbb!#:$\"1cbbbbbbb!#:$\"2')))))))))
+))))3#!#;7%$\"1MLLLLLLL!#:$\"1cbbbbbbb!#:$\"1yxxxxxxH!#:7%$\"1MLLLLLLL
+!#:$\"1RLLLLLLt!#:$\"1MLLLLLLL!#:7%$\"2Obbbbbbb$!#;$\"2&zxxxxxxx!#;$\"
+2WLLLLLLL$!#;7%7%$\"2Obbbbbbb$!#;$\"2&zxxxxxxx!#;$\"2WLLLLLLL$!#;7%$\"
+1MLLLLLLL!#:$\"1RLLLLLLt!#:$\"1MLLLLLLL!#:7%$\"1MLLLLLLL!#:$\"1yxxxxxx
+x!#:$\"2;AAAAAAU$!#;7&7%$\"1cbbbbbbb!#:$\"$+\"!\"\"$\"2lxxxxxx(H!#;7%$
+\"1cbbbbbbb!#:$\"1zxxxxxxx!#:$\"2GLLLLLL`#!#;7%$\"2Obbbbbbb$!#;$\"2&zx
+xxxxxx!#;$\"2WLLLLLLL$!#;7%$\"1kmmmmmmY!#:$\"$+\"!\"\"$\"1MLLLLLLL!#:7
+&7%$\"2WLLLLLLL$!#;$\"$+\"!\"\"$\"2jmmmmmm'Q!#;7%$\"1kmmmmmmY!#:$\"$+
+\"!\"\"$\"1MLLLLLLL!#:7%$\"2Obbbbbbb$!#;$\"2&zxxxxxxx!#;$\"2WLLLLLLL$!
+#;7%$\"1MLLLLLLL!#:$\"1yxxxxxxx!#:$\"2;AAAAAAU$!#;7&7%$\"1zxxxxxxx!#:$
+!1zxxxxxxx!#:$!2smmmmmmY\"!#;7%$\"1zxxxxxxx!#:$!$+\"!\"\"$!29666666\">
+!#;7%$\"1wxxxxxxd!#:$!$+\"!\"\"$!226666666\"!#;7%$\"2v)))))))))))))o!#
+;$!1zxxxxxxx!#:$!226666666\"!#;7&7%$\"1cbbbbbbb!#:$!1zxxxxxxx!#:$!0yxx
+xxxx&!#:7%$\"2v)))))))))))))o!#;$!1zxxxxxxx!#:$!226666666\"!#;7%$\"1wx
+xxxxxd!#:$!$+\"!\"\"$!226666666\"!#;7%$\"1cbbbbbbb!#:$!$+\"!\"\"$!2EAA
+AAAA-\"!#;7%7%$\"1zxxxxxxx!#:$!1&*************f!#:$!226666666\"!#;7%$
+\"1zxxxxxxx!#:$!1yxxxxxxx!#:$!2smmmmmmY\"!#;7%$\"2v)))))))))))))o!#;$!
+1zxxxxxxx!#:$!226666666\"!#;7'7%$\"1zxxxxxxx!#:$!1bbbbbbbb!#:$!2EAAAAA
+A-\"!#;7%$\"1zxxxxxxx!#:$!1&*************f!#:$!226666666\"!#;7%$\"2v))
+)))))))))))o!#;$!1zxxxxxxx!#:$!226666666\"!#;7%$\"1cbbbbbbb!#:$!1zxxxx
+xxx!#:$!0yxxxxxx&!#:7%$\"1cbbbbbbb!#:$!1bbbbbbbb!#:$!2`LLLLLLL\"!#<7&7
+%$\"1zxxxxxxx!#:$!1LLLLLLLL!#:$!0yxxxxxx&!#:7%$\"1cbbbbbbb!#:$!1LLLLLL
+LL!#:$\"2%3666666J!#<7%$\"1cbbbbbbb!#:$!1bbbbbbbb!#:$!2`LLLLLLL\"!#<7%
+$\"1yxxxxxxx!#:$!1bbbbbbbb!#:$!2EAAAAAA-\"!#;7&7%$\"1zxxxxxxx!#:$!2266
+66666\"!#;$!2`LLLLLLL\"!#<7%$\"1cbbbbbbb!#:$!226666666\"!#;$\"1_bbbbbb
+v!#;7%$\"1cbbbbbbb!#:$!1LLLLLLLL!#:$\"2%3666666J!#<7%$\"1zxxxxxxx!#:$!
+1LLLLLLLL!#:$!0yxxxxxx&!#:7'7%$\"1zxxxxxxx!#:$\"2;6666666\"!#;$\"2%366
+6666J!#<7%$\"1zxxxxxxx!#:$!226666666\"!#;$!2`LLLLLLL\"!#<7%$\"1cbbbbbb
+b!#:$!226666666\"!#;$\"1_bbbbbbv!#;7%$\"1cbbbbbbb!#:$\"1#pmmmmmm'!#;$
+\"2;6666666\"!#;7%$\"1yxxxxxxd!#:$\"2;6666666\"!#;$\"2;6666666\"!#;7%7
+%$\"1yxxxxxxd!#:$\"2;6666666\"!#;$\"2;6666666\"!#;7%$\"1bbbbbbbb!#:$\"
+1#pmmmmmm'!#;$\"2;6666666\"!#;7%$\"1cbbbbbbb!#:$\"2;6666666\"!#;$\"2-+
++++++?\"!#;7&7%$\"1zxxxxxxx!#:$\"1MLLLLLLL!#:$\"1_bbbbbbv!#;7%$\"1zxxx
+xxxx!#:$\"2;6666666\"!#;$\"2%3666666J!#<7%$\"1yxxxxxxd!#:$\"2;6666666
+\"!#;$\"2;6666666\"!#;7%$\"2v)))))))))))))o!#;$\"1MLLLLLLL!#:$\"2;6666
+666\"!#;7&7%$\"1cbbbbbbb!#:$\"1MLLLLLLL!#:$\"2WWWWWWWk\"!#;7%$\"2v))))
+)))))))))o!#;$\"1MLLLLLLL!#:$\"2;6666666\"!#;7%$\"1yxxxxxxd!#:$\"2;666
+6666\"!#;$\"2;6666666\"!#;7%$\"1cbbbbbbb!#:$\"2;6666666\"!#;$\"2-+++++
++?\"!#;7%7%$\"1zxxxxxxx!#:$\"18666666^!#:$\"2;6666666\"!#;7%$\"1zxxxxx
+xx!#:$\"1MLLLLLLL!#:$\"1_bbbbbbv!#;7%$\"2v)))))))))))))o!#;$\"1MLLLLLL
+L!#:$\"2;6666666\"!#;7'7%$\"1zxxxxxxx!#:$\"1cbbbbbbb!#:$\"2-++++++?\"!
+#;7%$\"1zxxxxxxx!#:$\"18666666^!#:$\"2;6666666\"!#;7%$\"2v))))))))))))
+)o!#;$\"1MLLLLLLL!#:$\"2;6666666\"!#;7%$\"1cbbbbbbb!#:$\"1MLLLLLLL!#:$
+\"2WWWWWWWk\"!#;7%$\"1cbbbbbbb!#:$\"1cbbbbbbb!#:$\"2')))))))))))))3#!#
+;7&7%$\"1zxxxxxxx!#:$\"1zxxxxxxx!#:$\"2WWWWWWWk\"!#;7%$\"1cbbbbbbb!#:$
+\"1zxxxxxxx!#:$\"2GLLLLLL`#!#;7%$\"1cbbbbbbb!#:$\"1cbbbbbbb!#:$\"2')))
+))))))))))3#!#;7%$\"1zxxxxxxx!#:$\"1cbbbbbbb!#:$\"2-++++++?\"!#;7&7%$
+\"1zxxxxxxx!#:$\"$+\"!\"\"$\"2')))))))))))))3#!#;7%$\"1cbbbbbbb!#:$\"$
++\"!\"\"$\"2lxxxxxx(H!#;7%$\"1cbbbbbbb!#:$\"1zxxxxxxx!#:$\"2GLLLLLL`#!
+#;7%$\"1yxxxxxxx!#:$\"1yxxxxxxx!#:$\"2WWWWWWWk\"!#;7&7%$\"$+\"!\"\"$!1
+yxxxxxxx!#:$!2cbbbbbbN#!#;7%$\"1zxxxxxxx!#:$!1zxxxxxxx!#:$!2smmmmmmY\"
+!#;7%$\"1zxxxxxxx!#:$!$+\"!\"\"$!29666666\">!#;7%$\"$+\"!\"\"$!$+\"!\"
+\"$!#G!\"\"7'7%$\"$+\"!\"\"$!1bbbbbbbb!#:$!29666666\">!#;7%$\"$+\"!\"
+\"$!1yxxxxxxx!#:$!2cbbbbbbN#!#;7%$\"1zxxxxxxx!#:$!1yxxxxxxx!#:$!2smmmm
+mmY\"!#;7%$\"1zxxxxxxx!#:$!1&*************f!#:$!226666666\"!#;7%$\"1)*
+************z!#:$!1bbbbbbbb!#:$!226666666\"!#;7%7%$\"1)*************z!
+#:$!1bbbbbbbb!#:$!226666666\"!#;7%$\"1zxxxxxxx!#:$!1&*************f!#:
+$!226666666\"!#;7%$\"1yxxxxxxx!#:$!1bbbbbbbb!#:$!2EAAAAAA-\"!#;7&7%$\"
+$+\"!\"\"$!1LLLLLLLL!#:$!2jmmmmmmY\"!#;7%$\"$+\"!\"\"$!1bbbbbbbb!#:$!2
+9666666\">!#;7%$\"1)*************z!#:$!1bbbbbbbb!#:$!226666666\"!#;7%$
+\"06666666*!#9$!1LLLLLLLL!#:$!226666666\"!#;7&7%$\"1zxxxxxxx!#:$!1LLLL
+LLLL!#:$!0yxxxxxx&!#:7%$\"06666666*!#9$!1LLLLLLLL!#:$!226666666\"!#;7%
+$\"1)*************z!#:$!1bbbbbbbb!#:$!226666666\"!#;7%$\"1yxxxxxxx!#:$
+!1bbbbbbbb!#:$!2EAAAAAA-\"!#;7%7%$\"$+\"!\"\"$!1abbbbbb:!#:$!226666666
+\"!#;7%$\"$+\"!\"\"$!1LLLLLLLL!#:$!2jmmmmmmY\"!#;7%$\"06666666*!#9$!1L
+LLLLLLL!#:$!226666666\"!#;7'7%$\"$+\"!\"\"$!226666666\"!#;$!2@AAAAAA-
+\"!#;7%$\"$+\"!\"\"$!2Qbbbbbbb\"!#;$!226666666\"!#;7%$\"06666666*!#9$!
+1LLLLLLLL!#:$!226666666\"!#;7%$\"1zxxxxxxx!#:$!1LLLLLLLL!#:$!0yxxxxxx&
+!#:7%$\"1zxxxxxxx!#:$!226666666\"!#;$!2`LLLLLLL\"!#<7&7%$\"$+\"!\"\"$
+\"2;6666666\"!#;$!0yxxxxxx&!#:7%$\"1zxxxxxxx!#:$\"2;6666666\"!#;$\"2%3
+666666J!#<7%$\"1zxxxxxxx!#:$!226666666\"!#;$!2`LLLLLLL\"!#<7%$\"$+\"!
+\"\"$!226666666\"!#;$!2@AAAAAA-\"!#;7&7%$\"$+\"!\"\"$\"1MLLLLLLL!#:$!2
+vKLLLLLL\"!#<7%$\"1zxxxxxxx!#:$\"1MLLLLLLL!#:$\"1_bbbbbbv!#;7%$\"1zxxx
+xxxx!#:$\"2;6666666\"!#;$\"2%3666666J!#<7%$\"$+\"!\"\"$\"2;6666666\"!#
+;$!0yxxxxxx&!#:7'7%$\"$+\"!\"\"$\"1cbbbbbbb!#:$\"1;666666J!#;7%$\"$+\"
+!\"\"$\"1MLLLLLLL!#:$!2vKLLLLLL\"!#<7%$\"1zxxxxxxx!#:$\"1MLLLLLLL!#:$
+\"1_bbbbbbv!#;7%$\"1zxxxxxxx!#:$\"18666666^!#:$\"2;6666666\"!#;7%$\"#!
+)!\"\"$\"1cbbbbbbb!#:$\"2;6666666\"!#;7%7%$\"#!)!\"\"$\"1cbbbbbbb!#:$
+\"2;6666666\"!#;7%$\"1zxxxxxxx!#:$\"18666666^!#:$\"2;6666666\"!#;7%$\"
+1zxxxxxxx!#:$\"1cbbbbbbb!#:$\"2-++++++?\"!#;7&7%$\"$+\"!\"\"$\"1zxxxxx
+xx!#:$\"1ebbbbbbv!#;7%$\"$+\"!\"\"$\"1cbbbbbbb!#:$\"1;666666J!#;7%$\"#
+!)!\"\"$\"1cbbbbbbb!#:$\"2;6666666\"!#;7%$\"06666666*!#9$\"1zxxxxxxx!#
+:$\"2;6666666\"!#;7&7%$\"1yxxxxxxx!#:$\"1yxxxxxxx!#:$\"2WWWWWWWk\"!#;7
+%$\"06666666*!#9$\"1zxxxxxxx!#:$\"2;6666666\"!#;7%$\"#!)!\"\"$\"1cbbbb
+bbb!#:$\"2;6666666\"!#;7%$\"1zxxxxxxx!#:$\"1cbbbbbbb!#:$\"2-++++++?\"!
+#;7%7%$\"$+\"!\"\"$\"1dbbbbbb&*!#:$\"2;6666666\"!#;7%$\"$+\"!\"\"$\"1z
+xxxxxxx!#:$\"0cbbbbbb(!#:7%$\"06666666*!#9$\"1zxxxxxxx!#:$\"2;6666666
+\"!#;7'7%$\"$+\"!\"\"$\"$+\"!\"\"$\"2-++++++?\"!#;7%$\"$+\"!\"\"$\"1db
+bbbbb&*!#:$\"2;6666666\"!#;7%$\"06666666*!#9$\"1zxxxxxxx!#:$\"2;666666
+6\"!#;7%$\"1yxxxxxxx!#:$\"1yxxxxxxx!#:$\"2WWWWWWWk\"!#;7%$\"1zxxxxxxx!
+#:$\"$+\"!\"\"$\"2')))))))))))))3#!#;-%%VIEWG6%;$!$+\"!\"\"$\"$+\"!\"
+\";$!$+\"!\"\"$\"$+\"!\"\";$!$+\"!\"\"$\"$+\"!\"\"-&%&_AXISG6#\"\"\"6&
+-%&COLORG6&%$RGBG$\"\"!!\"\"$\"\"!!\"\"$\"\"!!\"\"-%*LINESTYLEG6#\"\"!
+-%*THICKNESSG6#\"\"\"-%-TRANSPARENCYG6#$\"\"!!\"\"-&%&_AXISG6#\"\"#6&-
+%&COLORG6&%$RGBG$\"\"!!\"\"$\"\"!!\"\"$\"\"!!\"\"-%*LINESTYLEG6#\"\"!-
+%*THICKNESSG6#\"\"\"-%-TRANSPARENCYG6#$\"\"!!\"\"-&%&_AXISG6#\"\"$6&-%
+&COLORG6&%$RGBG$\"\"!!\"\"$\"\"!!\"\"$\"\"!!\"\"-%*LINESTYLEG6#\"\"!-%
+*THICKNESSG6#\"\"\"-%-TRANSPARENCYG6#$\"\"!!\"\"-%+AXESLABELSG6&Q\"x6
+\"Q\"y6\"Q\"z6\"-%%FONTG6%%(DEFAULTG%(DEFAULTG\"#5-%*AXESSTYLEG6#%$BOX
+G-%(SCALINGG6#%,CONSTRAINEDG" 1 2 2 1 10 1 2 1 0 2 1 1.0 45.0 45.0 0 0
+ "Curve 1" "Curve 2" }}{TEXT 210 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{XPPEDIT 2 0 "Typesetting:-mrow(Typesetting:-mo(\"#\", size = \"14\", \+
+foreground = \"[0,255,0]\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"##\310\371
+\345\354 \363\343\356\353 \354\345\346\344\363 \355\350\354\350\", siz
+e = \"14\", italic = \"true\", foreground = \"[0,255,0]\", mathvariant
+ = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibG
+F'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathva
+riantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symm
+etricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF
+'/%'rspaceGFI-I#miGF$6'Q7##|cw|dz|`y|gy~|^z|^y|iy|fy~|gy|`y|ay|_y|^z~|
+hy|cy|gy|cyF'F//%'italicGQ%trueF'F2/F6Q'italicF'" }{XPPEDIT 2 0 "" "%#
+%?G" }{XPPEDIT 2 0 "" "%#%?G" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 
+1 "Typesetting:-mrow(Typesetting:-mi(\"simplify\", italic = \"true\", \+
+mathvariant = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Type
+setting:-mi(\"FindAngle\", italic = \"true\", mathvariant = \"italic\"
+), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"p1\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathv
+ariant = \"normal\", fence = \"false\", separator = \"true\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.33
+33333em\"), Typesetting:-mi(\"p2\", italic = \"true\", mathvariant = \+
+\"italic\")), mathvariant = \"normal\")), mathvariant = \"normal\"), T
+ypesetting:-mo(\";\", mathvariant = \"normal\", fence = \"false\", sep
+arator = \"true\", stretchy = \"false\", symmetric = \"false\", largeo
+p = \"false\", movablelimits = \"false\", accent = \"false\", lspace =
+ \"0.0em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I
+,TypesettingGI(_syslibGF'6%-I#miGF$6%Q)simplifyF'/%'italicGQ%trueF'/%,
+mathvariantGQ'italicF'-I(mfencedGF$6$-F#6$-F,6%Q*FindAngleF'F/F2-F66$-
+F#6%-F,6%Q#p1F'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*s
+eparatorGF1/%)stretchyGFL/%*symmetricGFL/%(largeopGFL/%.movablelimitsG
+FL/%'accentGFL/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F,6%Q#p2F'F
+/F2FHFH-FE6-Q\";F'FHFJFMFOFQFSFUFWFY/FgnQ,0.2777778emF'" }}{PARA 214 "
+" 1 "" {XPPMATH 20 "-I#miG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF
+'6%Q5output~redirected...F'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT -1 31 "[L
+ABEL REFERENCE NOT SUPPORTED]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 19 
+"# input placeholder" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I'arccosG6$%*pr
+otectedGI(_syslibG6\"6#,$*$\"\"$#\"\"\"\"\"##F-\"\"'" }}}{EXCHG {PARA 
+0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#\", si
+ze = \"16\", foreground = \"[255,0,0]\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"false\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(
+\"#5\", size = \"16\", italic = \"true\", foreground = \"[255,0,0]\", \+
+mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,Typesetting
+GI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#16F'/%+foregroundGQ*[255,0,0]
+F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretch
+yGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspa
+ceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q##5F'F//%'italicGQ%trueF'F2/F6Q'ita
+licF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Ty
+pesetting:-mo(\"#\", size = \"14\", foreground = \"[0,255,0]\", mathva
+riant = \"normal\", fence = \"false\", separator = \"false\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0e
+m\"), Typesetting:-mi(\"##\320\345\361\362\340\360\362\", size = \"14
+\", italic = \"true\", foreground = \"[0,255,0]\", mathvariant = \"ita
+lic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6$-I#m
+oGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvariantGQ'
+normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symmetricGF:
+/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%'rspa
+ceGFI-I#miGF$6'Q*##|[x|`y|\\z|]z|[y|[z|]zF'F//%'italicGQ%trueF'F2/F6Q'
+italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow
+(Typesetting:-mi(\"restart\", italic = \"true\", mathvariant = \"itali
+c\"), Typesetting:-mo(\":\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mi(
+\"with\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-m
+fenced(Typesetting:-mrow(Typesetting:-mi(\"geom3d\", italic = \"true\"
+, mathvariant = \"italic\")), mathvariant = \"normal\"), Typesetting:-
+mo(\":\", mathvariant = \"normal\", fence = \"false\", separator = \"f
+alse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.277777
+8em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,Type
+settingGI(_syslibGF'6'-I#miGF$6%Q(restartF'/%'italicGQ%trueF'/%,mathva
+riantGQ'italicF'-I#moGF$6-Q\":F'/F3Q'normalF'/%&fenceGQ&falseF'/%*sepa
+ratorGF=/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.movablelimitsGF=/
+%'accentGF=/%'lspaceGQ,0.2777778emF'/%'rspaceGFL-F,6%Q%withF'F/F2-I(mf
+encedGF$6$-F#6#-F,6%Q'geom3dF'F/F2F9F5" }}}{EXCHG {PARA 215 "" 0 "" 
+{XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#\", size = \"14\",
+ foreground = \"[0,255,0]\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"##\307\340
+\342\356\344\350\354 \362\356\367\352\350\", size = \"14\", italic = \+
+\"true\", foreground = \"[0,255,0]\", mathvariant = \"italic\"));" "-I
+%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/
+%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%&fe
+nceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:
+/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$
+6'Q0##|bw|[y|]y|iy|_y|cy|gy~|]z|iy|bz|ey|cyF'F//%'italicGQ%trueF'F2/F6
+Q'italicF'" }}}{EXCHG {PARA 216 "" 0 "" {XPPEDIT 19 1 "Typesetting:-mr
+ow(Typesetting:-mi(\"point\", italic = \"true\", mathvariant = \"itali
+c\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"A\", it
+alic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mat
+hvariant = \"normal\", fence = \"false\", separator = \"true\", stretc
+hy = \"false\", symmetric = \"false\", largeop = \"false\", movablelim
+its = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.
+3333333em\"), Typesetting:-mn(\"0\", mathvariant = \"normal\"), Typese
+tting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separato
+r = \"true\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0\", mathvariant \+
+= \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence \+
+= \"false\", separator = \"true\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-m
+i(\"z\", italic = \"false\", mathvariant = \"normal\")), mathvariant =
+ \"normal\"), Typesetting:-mo(\":\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"));" "-I%mr
+owG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q&pointF'/
+%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6)-F,6%Q\"
+AF'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/
+%)stretchyGFE/%*symmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'accentG
+FE/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-I#mnGF$6$Q\"0F'FAF=FXF=
+-F,6%Q\"zF'/F0FEFAFA-F>6-Q\":F'FAFC/FGFEFHFJFLFNFP/FSQ,0.2777778emF'/F
+VF_o" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT -1 
+31 "[LABEL REFERENCE NOT SUPPORTED]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 
+1 0 19 "# input placeholder" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1
+ "Typesetting:-mrow(Typesetting:-mi(\"point\", italic = \"true\", math
+variant = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Typesett
+ing:-mi(\"B\", italic = \"true\", mathvariant = \"italic\"), Typesetti
+ng:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator =
+ \"true\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.3333333em\"), Typesetting:-mn(\"5\", mathvariant = \"
+normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"
+false\", separator = \"true\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"1
+\", mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"
+normal\", fence = \"false\", separator = \"true\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\")
+, Typesetting:-mn(\"0\", mathvariant = \"normal\")), mathvariant = \"n
+ormal\"), Typesetting:-mo(\":\", mathvariant = \"normal\", fence = \"f
+alse\", separator = \"false\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"));" "-I%mrowG6#
+/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q&pointF'/%'ita
+licGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6)-F,6%Q\"BF'F/
+F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/%)str
+etchyGFE/%*symmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'
+lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-I#mnGF$6$Q\"5F'FAF=-FY6$Q\"1
+F'FAF=-FY6$Q\"0F'FAFA-F>6-Q\":F'FAFC/FGFEFHFJFLFNFP/FSQ,0.2777778emF'/
+FVFao" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Ty
+pesetting:-mi(\"point\", italic = \"true\", mathvariant = \"italic\"),
+ Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"C\", italic \+
+= \"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvari
+ant = \"normal\", fence = \"false\", separator = \"true\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.33333
+33em\"), Typesetting:-mn(\"0\", mathvariant = \"normal\"), Typesetting
+:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"true\", stretchy = \"false\", symmetric = \"false\", largeop = \"fal
+se\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.3333333em\"), Typesetting:-mn(\"2\", mathvariant = \"
+normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"
+false\", separator = \"true\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mn(\"3
+\", mathvariant = \"normal\")), mathvariant = \"normal\"), Typesetting
+:-mo(\":\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.277
+7778em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,T
+ypesettingGI(_syslibGF'6%-I#miGF$6%Q&pointF'/%'italicGQ%trueF'/%,mathv
+ariantGQ'italicF'-I(mfencedGF$6$-F#6)-F,6%Q\"CF'F/F2-I#moGF$6-Q\",F'/F
+3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/%)stretchyGFE/%*symmetric
+GFE/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'lspaceGQ&0.0emF'/%'r
+spaceGQ,0.3333333emF'-I#mnGF$6$Q\"0F'FAF=-FY6$Q\"2F'FAF=-FY6$Q\"3F'FAF
+A-F>6-Q\":F'FAFC/FGFEFHFJFLFNFP/FSQ,0.2777778emF'/FVFao" }}}{EXCHG 
+{PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"
+\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.0em\", depth \+
+= \"0.0ex\", linebreak = \"auto\"), Typesetting:-mo(\"#\", size = \"14
+\", foreground = \"[0,255,0]\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"##\310
+\371\345\354 z\", size = \"14\", italic = \"true\", foreground = \"[0,
+255,0]\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,T
+ypesettingGI(_syslibGF'6&-I#miGF$6#Q!F'-I'mspaceGF$6&/%'heightGQ&0.0ex
+F'/%&widthGQ&0.0emF'/%&depthGF4/%*linebreakGQ%autoF'-I#moGF$6/Q\"#F'/%
+%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%&fen
+ceGQ&falseF'/%*separatorGFL/%)stretchyGFL/%*symmetricGFL/%(largeopGFL/
+%.movablelimitsGFL/%'accentGFL/%'lspaceGF7/%'rspaceGF7-F,6'Q)##|cw|dz|
+`y|gy~zF'FA/%'italicGQ%trueF'FD/FHQ'italicF'" }}{PARA 217 "" 1 "" 
+{XPPMATH 20 "-I#miG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%Q5ou
+tput~redirected...F'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:
+-mi(\"solve\", italic = \"true\", mathvariant = \"italic\"), Typesetti
+ng:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"distance\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mfenced(Typesetting:
+-mrow(Typesetting:-mi(\"A\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false
+\", separator = \"true\", stretchy = \"false\", symmetric = \"false\",
+ largeop = \"false\", movablelimits = \"false\", accent = \"false\", l
+space = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(\"B\", i
+talic = \"true\", mathvariant = \"italic\")), mathvariant = \"normal\"
+), Typesetting:-mo(\"=\", mathvariant = \"normal\", fence = \"false\",
+ separator = \"false\", stretchy = \"false\", symmetric = \"false\", l
+argeop = \"false\", movablelimits = \"false\", accent = \"false\", lsp
+ace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mi(\"di
+stance\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-m
+fenced(Typesetting:-mrow(Typesetting:-mi(\"A\", italic = \"true\", mat
+hvariant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal
+\", fence = \"false\", separator = \"true\", stretchy = \"false\", sym
+metric = \"false\", largeop = \"false\", movablelimits = \"false\", ac
+cent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Types
+etting:-mi(\"C\", italic = \"true\", mathvariant = \"italic\")), mathv
+ariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\",
+ fence = \"false\", separator = \"true\", stretchy = \"false\", symmet
+ric = \"false\", largeop = \"false\", movablelimits = \"false\", accen
+t = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesett
+ing:-mi(\"z\", italic = \"true\", mathvariant = \"italic\")), mathvari
+ant = \"normal\"), Typesetting:-mo(\";\", mathvariant = \"normal\", fe
+nce = \"false\", separator = \"true\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.0em\", rspace = \"0.2777778em\"));" "-I%mrowG
+6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q&solveF'/%'i
+talicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6)-F,6%Q)dist
+anceF'F/F2-F66$-F#6%-F,6%Q\"AF'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fen
+ceGQ&falseF'/%*separatorGF1/%)stretchyGFL/%*symmetricGFL/%(largeopGFL/
+%.movablelimitsGFL/%'accentGFL/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333
+emF'-F,6%Q\"BF'F/F2FH-FE6-Q\"=F'FHFJ/FNFLFOFQFSFUFW/FZQ,0.2777778emF'/
+FgnFaoF:-F66$-F#6%FAFD-F,6%Q\"CF'F/F2FHFD-F,6%Q\"zF'F/F2FH-FE6-Q\";F'F
+HFJFMFOFQFSFUFWFYFbo" }}{PARA 218 "" 1 "" {XPPMATH 20 "-I#miG6#/I+modu
+lenameG6\"I,TypesettingGI(_syslibGF'6%Q5output~redirected...F'/%'itali
+cGQ%trueF'/%,mathvariantGQ'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 6 "print(" }{TEXT -1 31 "[LABEL REFERENCE NOT SUPPORTED]"
+ }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 19 "# input placeholder" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "#!#8\"\"'" }}}{EXCHG {PARA 0 "" 0 "" {XPPEDIT 
+2 0 "" "%#%?G" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:
+-mrow(Typesetting:-mo(\"#\", size = \"14\", foreground = \"[0,255,0]\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"false\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace \+
+= \"0.0em\"), Typesetting:-mi(\"## \317\360\356\342\345\360\350\354\",
+ size = \"14\", italic = \"true\", foreground = \"[0,255,0]\", mathvar
+iant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sys
+libGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,ma
+thvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*
+symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.
+0emF'/%'rspaceGFI-I#miGF$6'Q,##~|jw|[z|iy|]y|`y|[z|cy|gyF'F//%'italicG
+Q%trueF'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "" 
+"%#%?G" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(T
+ypesetting:-mi(\"point\", italic = \"true\", mathvariant = \"italic\")
+, Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"A\", italic
+ = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvar
+iant = \"normal\", fence = \"false\", separator = \"true\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333
+333em\"), Typesetting:-mn(\"0\", mathvariant = \"normal\"), Typesettin
+g:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"true\", stretchy = \"false\", symmetric = \"false\", largeop = \"fal
+se\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.3333333em\"), Typesetting:-mn(\"0\", mathvariant = \"
+normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"
+false\", separator = \"true\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mrow(T
+ypesetting:-mo(\"&uminus0;\", mathvariant = \"normal\", fence = \"fals
+e\", separator = \"false\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mf
+rac(Typesetting:-mn(\"13\", mathvariant = \"normal\"), Typesetting:-mn
+(\"6\", mathvariant = \"normal\"), linethickness = \"1\", denomalign =
+ \"center\", numalign = \"center\", bevelled = \"false\")), Typesettin
+g:-mi(\"\")), mathvariant = \"normal\"), Typesetting:-mo(\":\", mathva
+riant = \"normal\", fence = \"false\", separator = \"false\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \+
+\"0.2777778em\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.
+0em\", depth = \"0.0ex\", linebreak = \"newline\"), Typesetting:-mi(\"
+distance\", italic = \"true\", mathvariant = \"italic\"), Typesetting:
+-mfenced(Typesetting:-mrow(Typesetting:-mi(\"A\", italic = \"true\", m
+athvariant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"norma
+l\", fence = \"false\", separator = \"true\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Type
+setting:-mi(\"B\", italic = \"true\", mathvariant = \"italic\")), math
+variant = \"normal\"), Typesetting:-mo(\" \", mathvariant = \"normal\"
+, fence = \"false\", separator = \"false\", stretchy = \"false\", symm
+etric = \"false\", largeop = \"false\", movablelimits = \"false\", acc
+ent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:
+-mo(\"&uminus0;\", mathvariant = \"normal\", fence = \"false\", separa
+tor = \"false\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mo(\" \", mat
+hvariant = \"normal\", fence = \"false\", separator = \"false\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0
+.0em\"), Typesetting:-mo(\" \", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"distanc
+e\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mfence
+d(Typesetting:-mrow(Typesetting:-mi(\"A\", italic = \"true\", mathvari
+ant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fe
+nce = \"false\", separator = \"true\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting
+:-mi(\"C\", italic = \"true\", mathvariant = \"italic\")), mathvariant
+ = \"normal\"), Typesetting:-mo(\";\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"true\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/
+I+modulenameG6\"I,TypesettingGI(_syslibGF'6/-I#miGF$6%Q&pointF'/%'ital
+icGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6*-F,6%Q\"AF'F/F
+2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/%)stre
+tchyGFE/%*symmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'l
+spaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-I#mnGF$6$Q\"0F'FAF=FXF=-F#6$-
+F>6-Q*&uminus0;F'FAFC/FGFEFHFJFLFNFP/FSQ,0.2222222emF'/FVF]o-I&mfracGF
+$6(-FY6$Q#13F'FA-FY6$Q\"6F'FA/%.linethicknessGQ\"1F'/%+denomalignGQ'ce
+nterF'/%)numalignGF]p/%)bevelledGFE-F,6#Q!F'FA-F>6-Q\":F'FAFCF[oFHFJFL
+FNFP/FSQ,0.2777778emF'/FVFip-I'mspaceGF$6&/%'heightGQ&0.0exF'/%&widthG
+FT/%&depthGF`q/%*linebreakGQ(newlineF'-F,6%Q)distanceF'F/F2-F66$-F#6%F
+:F=-F,6%Q\"BF'F/F2FA-F>6-Q\"~F'FAFCF[oFHFJFLFNFPFR/FVFTFhnFbrFbrFhq-F6
+6$-F#6%F:F=-F,6%Q\"CF'F/F2FA-F>6-Q\";F'FAFCFFFHFJFLFNFPFRFjp" }}{PARA 
+219 "" 1 "" {XPPMATH 20 "-I#miG6#/I+modulenameG6\"I,TypesettingGI(_sys
+libGF'6%Q5output~redirected...F'/%'italicGQ%trueF'/%,mathvariantGQ'ita
+licF'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT -1 
+31 "[LABEL REFERENCE NOT SUPPORTED]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 
+1 0 19 "# input placeholder" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}
+}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting
+:-mo(\"#\", size = \"14\", foreground = \"[0,255,0]\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Ty
+pesetting:-mi(\"##\322.\345.  A(0,0,\", size = \"14\", italic = \"true
+\", foreground = \"[0,255,0]\", mathvariant = \"italic\"), Typesetting
+:-mo(\"&uminus0;\", foreground = \"[0,255,0]\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.2222222em\", rspace = \"0.2222222em\")
+, Typesetting:-mfrac(Typesetting:-mn(\"13\", foreground = \"[0,255,0]
+\", mathvariant = \"normal\"), Typesetting:-mn(\"6\", foreground = \"[
+0,255,0]\", mathvariant = \"normal\"), linethickness = \"1\", denomali
+gn = \"center\", numalign = \"center\", bevelled = \"false\", foregrou
+nd = \"[0,255,0]\"), Typesetting:-mo(\")\", size = \"14\", foreground \+
+= \"[0,255,0]\", mathvariant = \"normal\", fence = \"true\", separator
+ = \"false\", stretchy = \"true\", symmetric = \"false\", largeop = \"
+false\", movablelimits = \"false\", accent = \"false\", lspace = \"0.1
+666667em\", rspace = \"0.1666667em\"));" "-I%mrowG6#/I+modulenameG6\"I
+,TypesettingGI(_syslibGF'6'-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foreground
+GQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorG
+F:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'acce
+ntGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q/##|]x.|`y.~~A(0,0,F'F/
+/%'italicGQ%trueF'F2/F6Q'italicF'-F,6.Q*&uminus0;F'F2F5F8F;F=F?FAFCFE/
+FHQ,0.2222222emF'/FKFY-I&mfracGF$6)-I#mnGF$6%Q#13F'F2F5-Fin6%Q\"6F'F2F
+5/%.linethicknessGQ\"1F'/%+denomalignGQ'centerF'/%)numalignGFdo/%)beve
+lledGF:F2-F,6/Q\")F'F/F2F5/F9FRF;/F>FRF?FAFCFE/FHQ,0.1666667emF'/FKF_p
+" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typeset
+ting:-mo(\"#\", size = \"16\", foreground = \"[255,0,0]\", mathvariant
+ = \"normal\", fence = \"false\", separator = \"false\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\")
+, Typesetting:-mi(\"#7\", size = \"16\", italic = \"true\", foreground
+ = \"[255,0,0]\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenam
+eG6\"I,TypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#16F'/%+fore
+groundGQ*[255,0,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*sepa
+ratorGF:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/
+%'accentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q##7F'F//%'italicG
+Q%trueF'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Ty
+pesetting:-mrow(Typesetting:-mo(\"#\", size = \"14\", foreground = \"[
+0,255,0]\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.0em\"), Typesetting:-mi(\"##\320\345\361\362\340\360
+\362\", size = \"14\", italic = \"true\", foreground = \"[0,255,0]\", \+
+mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,Typesetting
+GI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]
+F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretch
+yGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspa
+ceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q*##|[x|`y|\\z|]z|[y|[z|]zF'F//%'ita
+licGQ%trueF'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1
+ "Typesetting:-mrow(Typesetting:-mi(\"restart\", italic = \"true\", ma
+thvariant = \"italic\"), Typesetting:-mo(\":\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\")
+, Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI
+(_syslibGF'6%-I#miGF$6%Q(restartF'/%'italicGQ%trueF'/%,mathvariantGQ'i
+talicF'-I#moGF$6-Q\":F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF=/
+%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.movablelimitsGF=/%'accentG
+F=/%'lspaceGQ,0.2777778emF'/%'rspaceGFL-F,6#Q!F'" }}}{EXCHG {PARA 0 ">
+ " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#\", size =
+ \"14\", foreground = \"[0,255,0]\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"##
+\307\340\344\340\344\350\354 \363\360\340\342\355\345\355\350\377\", s
+ize = \"14\", italic = \"true\", foreground = \"[0,255,0]\", mathvaria
+nt = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sysli
+bGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,math
+variantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*sy
+mmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0e
+mF'/%'rspaceGFI-I#miGF$6'Q4##|bw|[y|_y|[y|_y|cy|gy~|^z|[z|[y|]y|hy|`y|
+hy|cy|jzF'F//%'italicGQ%trueF'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 
+0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"x\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&coloneq;\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"false\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspac
+e = \"0.2777778em\"), Typesetting:-mo(\" \", mathvariant = \"normal\",
+ fence = \"false\", separator = \"false\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-
+mo(\"&uminus0;\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mi(\"t\", itali
+c = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"+\", mathva
+riant = \"normal\", fence = \"false\", separator = \"false\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace = \+
+\"0.2222222em\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), Ty
+pesetting:-mo(\":\", mathvariant = \"normal\", fence = \"false\", sepa
+rator = \"false\", stretchy = \"false\", symmetric = \"false\", largeo
+p = \"false\", movablelimits = \"false\", accent = \"false\", lspace =
+ \"0.2777778em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulenam
+eG6\"I,TypesettingGI(_syslibGF'6*-I#miGF$6%Q\"xF'/%'italicGQ%trueF'/%,
+mathvariantGQ'italicF'-I#moGF$6-Q*&coloneq;F'/F3Q'normalF'/%&fenceGQ&f
+alseF'/%*separatorGF=/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.mova
+blelimitsGF=/%'accentGF=/%'lspaceGQ,0.2777778emF'/%'rspaceGFL-F66-Q\"~
+F'F9F;F>F@FBFDFFFH/FKQ&0.0emF'/FNFS-F66-Q*&uminus0;F'F9F;F>F@FBFDFFFH/
+FKQ,0.2222222emF'/FNFY-F,6%Q\"tF'F/F2-F66-Q\"+F'F9F;F>F@FBFDFFFHFXFZ-I
+#mnGF$6$Q\"2F'F9-F66-Q\":F'F9F;F>F@FBFDFFFHFJFM" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT -1 31 "[LABEL REFERENCE NOT SUPP
+ORTED]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 19 "# input placeholder" }
+}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesettin
+g:-mi(\"y\", italic = \"true\", mathvariant = \"italic\"), Typesetting
+:-mo(\"&coloneq;\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mo(\"&uminus0
+;\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.2222222em
+\", rspace = \"0.2222222em\"), Typesetting:-mi(\"t\", italic = \"true
+\", mathvariant = \"italic\"), Typesetting:-mo(\"+\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.222222
+2em\"), Typesetting:-mn(\"3\", mathvariant = \"normal\"), Typesetting:
+-mo(\":\", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.27777
+78em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,Typ
+esettingGI(_syslibGF'6)-I#miGF$6%Q\"yF'/%'italicGQ%trueF'/%,mathvarian
+tGQ'italicF'-I#moGF$6-Q*&coloneq;F'/F3Q'normalF'/%&fenceGQ&falseF'/%*s
+eparatorGF=/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.movablelimitsG
+F=/%'accentGF=/%'lspaceGQ,0.2777778emF'/%'rspaceGFL-F66-Q*&uminus0;F'F
+9F;F>F@FBFDFFFH/FKQ,0.2222222emF'/FNFS-F,6%Q\"tF'F/F2-F66-Q\"+F'F9F;F>
+F@FBFDFFFHFRFT-I#mnGF$6$Q\"3F'F9-F66-Q\":F'F9F;F>F@FBFDFFFHFJFM" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:
+-mi(\"z\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-
+mo(\"&coloneq;\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mo(\" \", mathv
+ariant = \"normal\", fence = \"false\", separator = \"false\", stretch
+y = \"false\", symmetric = \"false\", largeop = \"false\", movablelimi
+ts = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0
+em\"), Typesetting:-mn(\"4\", mathvariant = \"normal\"), Typesetting:-
+mo(\"&sdot;\", mathvariant = \"normal\", fence = \"false\", separator \+
+= \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"
+false\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0
+em\", rspace = \"0.0em\"), Typesetting:-mi(\"t\", italic = \"true\", m
+athvariant = \"italic\"), Typesetting:-mo(\"&minus;\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.2222
+222em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\"), Typesettin
+g:-mo(\":\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.277
+7778em\", rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,T
+ypesettingGI(_syslibGF'6+-I#miGF$6%Q\"zF'/%'italicGQ%trueF'/%,mathvari
+antGQ'italicF'-I#moGF$6-Q*&coloneq;F'/F3Q'normalF'/%&fenceGQ&falseF'/%
+*separatorGF=/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.movablelimit
+sGF=/%'accentGF=/%'lspaceGQ,0.2777778emF'/%'rspaceGFL-F66-Q\"~F'F9F;F>
+F@FBFDFFFH/FKQ&0.0emF'/FNFS-I#mnGF$6$Q\"4F'F9-F66-Q'&sdot;F'F9F;F>F@FB
+FDFFFHFRFT-F,6%Q\"tF'F/F2-F66-Q(&minus;F'F9F;F>F@FBFDFFFH/FKQ,0.222222
+2emF'/FNF]o-FV6$Q\"1F'F9-F66-Q\":F'F9F;F>F@FBFDFFFHFJFM" }}}{EXCHG 
+{PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#
+\", size = \"14\", foreground = \"[0,255,0]\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesettin
+g:-mi(\"##\310\371\345\354 \362\356\367\352\363 \357\345\360\345\361\3
+45\367\345\355\350\377\", size = \"14\", italic = \"true\", foreground
+ = \"[0,255,0]\", mathvariant = \"italic\"), Typesetting:-mspace(heigh
+t = \"0.0ex\", width = \"0.0em\", depth = \"0.0ex\", linebreak = \"new
+line\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.0em\", de
+pth = \"0.0ex\", linebreak = \"auto\"), Typesetting:-mi(\"solve\", ita
+lic = \"true\", mathvariant = \"italic\"), Typesetting:-mfenced(Typese
+tting:-mrow(Typesetting:-mi(\"x\", italic = \"true\", mathvariant = \"
+italic\"), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"
+false\", separator = \"false\", stretchy = \"false\", symmetric = \"fa
+lse\", largeop = \"false\", movablelimits = \"false\", accent = \"fals
+e\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:
+-mn(\"2\", mathvariant = \"normal\"), Typesetting:-mo(\"&sdot;\", math
+variant = \"normal\", fence = \"false\", separator = \"false\", stretc
+hy = \"false\", symmetric = \"false\", largeop = \"false\", movablelim
+its = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.
+0em\"), Typesetting:-mo(\" \", mathvariant = \"normal\", fence = \"fal
+se\", separator = \"false\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"y\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"+\", mathv
+ariant = \"normal\", fence = \"false\", separator = \"false\", stretch
+y = \"false\", symmetric = \"false\", largeop = \"false\", movablelimi
+ts = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace =
+ \"0.2222222em\"), Typesetting:-mn(\"3\", mathvariant = \"normal\"), T
+ypesetting:-mo(\"&sdot;\", mathvariant = \"normal\", fence = \"false\"
+, separator = \"false\", stretchy = \"false\", symmetric = \"false\", \+
+largeop = \"false\", movablelimits = \"false\", accent = \"false\", ls
+pace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"z\", italic =
+ \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&minus;\", mat
+hvariant = \"normal\", fence = \"false\", separator = \"false\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace
+ = \"0.2222222em\"), Typesetting:-mn(\"14\", mathvariant = \"normal\")
+, Typesetting:-mo(\"=\", mathvariant = \"normal\", fence = \"false\", \+
+separator = \"false\", stretchy = \"false\", symmetric = \"false\", la
+rgeop = \"false\", movablelimits = \"false\", accent = \"false\", lspa
+ce = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mn(\"0\"
+, mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"no
+rmal\", fence = \"false\", separator = \"true\", stretchy = \"false\",
+ symmetric = \"false\", largeop = \"false\", movablelimits = \"false\"
+, accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), T
+ypesetting:-mi(\"t\", italic = \"true\", mathvariant = \"italic\")), m
+athvariant = \"normal\"), Typesetting:-mo(\";\", mathvariant = \"norma
+l\", fence = \"false\", separator = \"true\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.2777778em\"));" "-
+I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6)-I#moGF$6/Q\"#F'
+/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%&f
+enceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symmetricGF:/%(largeopGF
+:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF
+$6'Q9##|cw|dz|`y|gy~|]z|iy|bz|ey|^z~|jy|`y|[z|`y|\\z|`y|bz|`y|hy|cy|jz
+F'F//%'italicGQ%trueF'F2/F6Q'italicF'-I'mspaceGF$6&/%'heightGQ&0.0exF'
+/%&widthGFI/%&depthGFZ/%*linebreakGQ(newlineF'-FV6&FXFenFgn/FjnQ%autoF
+'-FM6%Q&solveF'FPFS-I(mfencedGF$6$-F#62-FM6%Q\"xF'FPFS-F,6-Q\"+F'F5F8F
+;F=F?FAFCFE/FHQ,0.2222222emF'/FKF_p-I#mnGF$6$Q\"2F'F5-F,6-Q'&sdot;F'F5
+F8F;F=F?FAFCFEFGFJ-F,6-Q\"~F'F5F8F;F=F?FAFCFEFGFJ-FM6%Q\"yF'FPFSF[p-Fb
+p6$Q\"3F'F5Fep-FM6%Q\"zF'FPFS-F,6-Q(&minus;F'F5F8F;F=F?FAFCFEF^pF`p-Fb
+p6$F1F5-F,6-Q\"=F'F5F8F;F=F?FAFCFE/FHQ,0.2777778emF'/FKF]r-Fbp6$Q\"0F'
+F5-F,6-Q\",F'F5F8/F<FRF=F?FAFCFEFG/FKQ,0.3333333emF'-FM6%Q\"tF'FPFSF5-
+F,6-Q\";F'F5F8FerF=F?FAFCFEFGF^r" }}{PARA 220 "" 1 "" {XPPMATH 20 "-I#
+miG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%Q5output~redirected.
+..F'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT -1 31 "[LABEL REFERENCE NOT SUPP
+ORTED]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 19 "# input placeholder" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"\"" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#\", size = \"14\",
+ foreground = \"[0,255,0]\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"##\322.\345
+. \362\356\367\352\340 \357\345\360\345\361\345\355\350\377 \350\354\3
+45\345\362 \352\356\356\360\344\350\355\340\362\373 (1,2,3)\", size = \+
+\"14\", italic = \"true\", foreground = \"[0,255,0]\", mathvariant = \+
+\"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6
+$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvaria
+ntGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symmetr
+icGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%
+'rspaceGFI-I#miGF$6'QP##|]x.|`y.~|]z|iy|bz|ey|[y~|jy|`y|[z|`y|\\z|`y|h
+y|cy|jz~|cy|gy|`y|`y|]z~|ey|iy|iy|[z|_y|cy|hy|[y|]z|fz~(1,2,3)F'F//%'i
+talicGQ%trueF'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19
+ 1 "Typesetting:-mrow(Typesetting:-mo(\"#\", size = \"16\", foreground
+ = \"[255,0,0]\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"#8\", size = \"16\", i
+talic = \"true\", foreground = \"[255,0,0]\", mathvariant = \"italic\"
+));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6$-I#moGF$6
+/Q\"#F'/%%sizeGQ#16F'/%+foregroundGQ*[255,0,0]F'/%,mathvariantGQ'norma
+lF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symmetricGF:/%(la
+rgeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI
+-I#miGF$6'Q##8F'F//%'italicGQ%trueF'F2/F6Q'italicF'" }}}{EXCHG {PARA 0
+ "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"#\", siz
+e = \"14\", foreground = \"[0,255,0]\", mathvariant = \"normal\", fenc
+e = \"false\", separator = \"false\", stretchy = \"false\", symmetric \+
+= \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"
+##\320\345\361\362\340\360\362\", size = \"14\", italic = \"true\", fo
+reground = \"[0,255,0]\", mathvariant = \"italic\"));" "-I%mrowG6#/I+m
+odulenameG6\"I,TypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F
+'/%+foregroundGQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF
+'/%*separatorGF:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:/%.movableli
+mitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q*##|[x|`y
+|\\z|]z|[y|[z|]zF'F//%'italicGQ%trueF'F2/F6Q'italicF'" }}}{EXCHG 
+{PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"r
+estart\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-m
+o(\":\", mathvariant = \"normal\", fence = \"false\", separator = \"fa
+lse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.277777
+8em\", rspace = \"0.2777778em\"), Typesetting:-mi(\"with\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mfenced(Typesetting:
+-mrow(Typesetting:-mi(\"geom3d\", italic = \"true\", mathvariant = \"i
+talic\")), mathvariant = \"normal\"), Typesetting:-mo(\":\", mathvaria
+nt = \"normal\", fence = \"false\", separator = \"false\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0
+.2777778em\"), Typesetting:-mi(\"with\", italic = \"true\", mathvarian
+t = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-m
+i(\"linalg\", italic = \"true\", mathvariant = \"italic\")), mathvaria
+nt = \"normal\"), Typesetting:-mo(\":\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"false\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"));" "-I
+%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6*-I#miGF$6%Q(resta
+rtF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q\":F'/F3Q'no
+rmalF'/%&fenceGQ&falseF'/%*separatorGF=/%)stretchyGF=/%*symmetricGF=/%
+(largeopGF=/%.movablelimitsGF=/%'accentGF=/%'lspaceGQ,0.2777778emF'/%'
+rspaceGFL-F,6%Q%withF'F/F2-I(mfencedGF$6$-F#6#-F,6%Q'geom3dF'F/F2F9F5F
+O-FS6$-F#6#-F,6%Q'linalgF'F/F2F9F5" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 6 "print(" }{TEXT -1 31 "[LABEL REFERENCE NOT SUPPORTED]"
+ }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 19 "# input placeholder" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "" "-I%mrowG6#/I+modulenameG6\"
+I,TypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroun
+dGQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separator
+GF:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'acc
+entGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q4##|bw|[y|_y|[y|_y|cy|
+gy~|^z|[z|[y|]y|hy|`y|hy|cy|jzF'F//%'italicGQ%trueF'F2/F6Q'italicF'" }
+}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "" "%#%?G" }}}{EXCHG {PARA 0 
+"> " 0 "" {XPPEDIT 19 1 "`assign`(x, `+`(t, 1)):" "-I%mrowG6#/I+module
+nameG6\"I,TypesettingGI(_syslibGF'6*-I#miGF$6%Q\"xF'/%'italicGQ%trueF'
+/%,mathvariantGQ'italicF'-I#moGF$6-Q\"~F'/F3Q'normalF'/%&fenceGQ&false
+F'/%*separatorGF=/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.movablel
+imitsGF=/%'accentGF=/%'lspaceGQ&0.0emF'/%'rspaceGFL-F66-Q*&coloneq;F'F
+9F;F>F@FBFDFFFH/FKQ,0.2777778emF'/FNFSF5-F,6%Q\"tF'F/F2-F66-Q\"+F'F9F;
+F>F@FBFDFFFH/FKQ,0.2222222emF'/FNFfn-I#mnGF$6$Q\"1F'F9-F66-Q\":F'F9F;F
+>F@FBFDFFFHFRFT" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "`assign`(y
+, `+`(t, `-`(1.5))):" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sys
+libGF'6*-I#miGF$6%Q\"yF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#
+moGF$6-Q\"~F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF=/%)stretchy
+GF=/%*symmetricGF=/%(largeopGF=/%.movablelimitsGF=/%'accentGF=/%'lspac
+eGQ&0.0emF'/%'rspaceGFL-F66-Q*&coloneq;F'F9F;F>F@FBFDFFFH/FKQ,0.277777
+8emF'/FNFSF5-F,6%Q\"tF'F/F2-F66-Q(&minus;F'F9F;F>F@FBFDFFFH/FKQ,0.2222
+222emF'/FNFfn-I#mnGF$6$Q$1.5F'F9-F66-Q\":F'F9F;F>F@FBFDFFFHFRFT" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "`assign`(z, t):" "-I%mrowG6#/I
++modulenameG6\"I,TypesettingGI(_syslibGF'6&-I#miGF$6%Q\"zF'/%'italicGQ
+%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q*&coloneq;F'/F3Q'normalF'/%
+&fenceGQ&falseF'/%*separatorGF=/%)stretchyGF=/%*symmetricGF=/%(largeop
+GF=/%.movablelimitsGF=/%'accentGF=/%'lspaceGQ,0.2777778emF'/%'rspaceGF
+L-F,6%Q\"tF'F/F2-F66-Q\":F'F9F;F>F@FBFDFFFHFJFM" }}}{EXCHG {PARA 0 "> 
+" 0 "" {XPPEDIT 19 1 "" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_s
+yslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,
+mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/
+%*symmetricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&
+0.0emF'/%'rspaceGFI-I#miGF$6'Q0##|bw|[y|_y|[y|_y|cy|gy~|]z|iy|bz|ey|cy
+F'F//%'italicGQ%trueF'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "point(M, 0, -3, 2):" "-I%mrowG6#/I+modulenameG6\"I,Type
+settingGI(_syslibGF'6%-I#miGF$6%Q&pointF'/%'italicGQ%trueF'/%,mathvari
+antGQ'italicF'-I(mfencedGF$6$-F#6*-F,6%Q\"MF'F/F2-I#moGF$6-Q\",F'/F3Q'
+normalF'/%&fenceGQ&falseF'/%*separatorGF1/%)stretchyGFE/%*symmetricGFE
+/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'lspaceGQ&0.0emF'/%'rspa
+ceGQ,0.3333333emF'-I#mnGF$6$Q\"0F'FAF=-F>6-Q*&uminus0;F'FAFC/FGFEFHFJF
+LFNFP/FSQ,0.2222222emF'/FVF[o-FY6$Q\"3F'FAF=-FY6$Q\"2F'FAFA-F>6-Q\":F'
+FAFCFinFHFJFLFNFP/FSQ,0.2777778emF'/FVFgo" }}}{EXCHG {PARA 0 "> " 0 ""
+ {XPPEDIT 19 1 "" "%#%?G" }{XPPEDIT 19 1 "" "%#%?G" }}}{EXCHG {PARA 0 
+"> " 0 "" {XPPEDIT 19 1 "point(MS, 0, 0, 0):" "-I%mrowG6#/I+modulename
+G6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q&pointF'/%'italicGQ%trueF'/
+%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6)-F,6%Q#MSF'F/F2-I#moGF$6-Q
+\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/%)stretchyGFE/%*sy
+mmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'lspaceGQ&0.0e
+mF'/%'rspaceGQ,0.3333333emF'-I#mnGF$6$Q\"0F'FAF=FXF=FXFA-F>6-Q\":F'FAF
+C/FGFEFHFJFLFNFP/FSQ,0.2777778emF'/FVF[o" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF
+'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvar
+iantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symme
+tricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'
+/%'rspaceGFI-I#miGF$6'QM##|[x|`y|cz|[y|`y|gy(|]y|\\z|]z|[z|iy|`y|hy|hy
+|[y|jz~|_z|^z|hy|ey|az|cy|jz~|\\z|[y|gy|[y~|]y|\\z|cv~|hy|[y|dy|_y|cv|
+]z)F'F//%'italicGQ%trueF'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "line(l, \{x, y, z\}, t):" "-I%mrowG6#/I+modulenameG6\"I
+,TypesettingGI(_syslibGF'6%-I#miGF$6%Q%lineF'/%'italicGQ%trueF'/%,math
+variantGQ'italicF'-I(mfencedGF$6$-F#6'-F,6%Q\"lF'F/F2-I#moGF$6-Q\",F'/
+F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/%)stretchyGFE/%*symmetri
+cGFE/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'lspaceGQ&0.0emF'/%'
+rspaceGQ,0.3333333emF'-F66&-F#6'-F,6%Q\"xF'F/F2F=-F,6%Q\"yF'F/F2F=-F,6
+%Q\"zF'F/F2FA/%%openGQ\"|frF'/%&closeGQ\"|hrF'F=-F,6%Q\"tF'F/F2FA-F>6-
+Q\":F'FAFC/FGFEFHFJFLFNFP/FSQ,0.2777778emF'/FVF]p" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT -1 31 "[LABEL REFERENCE NOT SU
+PPORTED]" }{MPLTEXT 1 0 3 "); " }{MPLTEXT 1 0 19 "# input placeholder"
+ }}}{EXCHG }{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "print(" }{TEXT 
+-1 31 "[LABEL REFERENCE NOT SUPPORTED]" }{MPLTEXT 1 0 3 "); " }
+{MPLTEXT 1 0 19 "# input placeholder" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 2 "%;" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "reflect
+ion(MS, M, l):" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'
+6*-I#miGF$6%Q+reflectionF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-
+I(mfencedGF$6$-F#6'-F,6%Q#MSF'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenc
+eGQ&falseF'/%*separatorGF1/%)stretchyGFE/%*symmetricGFE/%(largeopGFE/%
+.movablelimitsGFE/%'accentGFE/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333e
+mF'-F,6%Q\"MF'F/F2F=-F,6%Q\"lF'F/F2FA-F>6-Q\":F'FAFC/FGFEFHFJFLFNFP/FS
+Q,0.2777778emF'/FVF]o-I'mspaceGF$6&/%'heightGQ&0.0exF'/%&widthGFT/%&de
+pthGFdo/%*linebreakGQ(newlineF'-F>6-Q\"~F'FAFCF[oFHFJFLFNFPFR/FVFT-F,6
+%Q,coordinatesF'F/F2-F66$-F#6#F:FA-F>6-Q\";F'FAFCFFFHFJFLFNFPFRF^o" }}
+{PARA 221 "" 1 "" {XPPMATH 20 "-I#miG6#/I+modulenameG6\"I,TypesettingG
+I(_syslibGF'6%Q5output~redirected...F'/%'italicGQ%trueF'/%,mathvariant
+GQ'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "print(" }
+{TEXT -1 31 "[LABEL REFERENCE NOT SUPPORTED]" }{MPLTEXT 1 0 3 "); " }
+{MPLTEXT 1 0 19 "# input placeholder" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+7%$!+MLLLL!#5$\"+nmmmY!\"*$!+MLLL`F(" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF
+'6$-I#moGF$6/Q\"#F'/%%sizeGQ#14F'/%+foregroundGQ*[0,255,0]F'/%,mathvar
+iantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*symme
+tricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'
+/%'rspaceGFI-I#miGF$6'Q+##|jw|[z|iy|]y|`y|[z|cy|gyF'F//%'italicGQ%true
+F'F2/F6Q'italicF'" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "line(l1,
+ [M, MS]):" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I
+#miGF$6%Q%lineF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedG
+F$6$-F#6%-F,6%Q#l1F'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF
+'/%*separatorGF1/%)stretchyGFE/%*symmetricGFE/%(largeopGFE/%.movableli
+mitsGFE/%'accentGFE/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F66&-F
+#6%-F,6%Q\"MF'F/F2F=-F,6%Q#MSF'F/F2FA/%%openGQ\"[F'/%&closeGQ\"]F'FA-F
+>6-Q\":F'FAFC/FGFEFHFJFLFNFP/FSQ,0.2777778emF'/FVFgo" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 2 "%;" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 
+19 1 "draw(\{l, l1\}, axes = boxed, scaling = constrained);" "-I%mrowG
+6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q%drawF'/%'it
+alicGQ%trueF'/%,mathvariantGQ'italicF'-I(mfencedGF$6$-F#6--F66&-F#6%-F
+,6%Q\"lF'F/F2-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&falseF'/%*separat
+orGF1/%)stretchyGFI/%*symmetricGFI/%(largeopGFI/%.movablelimitsGFI/%'a
+ccentGFI/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F,6%Q#l1F'F/F2FE/
+%%openGQ\"|frF'/%&closeGQ\"|hrF'FA-F,6%Q%axesF'F/F2-FB6-Q\"=F'FEFG/FKF
+IFLFNFPFRFT/FWQ,0.2777778emF'/FZFgo-F,6%Q&boxedF'F/F2FA-F,6%Q(scalingF
+'F/F2-FB6-Q\"~F'FEFGFeoFLFNFPFRFTFV/FZFXFboF_p-F,6%Q,constrainedF'F/F2
+FE-FB6-Q\";F'FEFGFJFLFNFPFRFTFVFho" }}{PARA 222 "" 1 "" {XPPMATH 20 "-
+I#miG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%Q5output~redirecte
+d...F'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 2 "%;" }}{PARA 13 "" 1 "" {TEXT 210 0 "" }
+{GLPLOT3D 400 400 400 {PLOTDATA 3 "6'-%'CURVESG6#7$7%$!+$p-Nx&!\"*$!+$
+p-Nx%!\"*$!+$p-NF(!\"*7%$\"+$p-Nx&!\"*$\"+$p-Nx'!\"*$\"+$p-NF%!\"*-%'C
+URVESG6#7$7%$\"+$p-Nx&!\"*$!+>c!zN\"!\"($\"+#fq,H\"!\"(7%$!+$p-Nx&!\"*
+$\"+>c!zH\"!\"($!+#fq,D\"!\"(-%%VIEWG6%;$!+$p-Nx&!\"*$\"+$p-Nx&!\"*;$!
++>c!zN\"!\"($\"+>c!zH\"!\"(;$!+#fq,D\"!\"($\"+#fq,H\"!\"(-%*AXESSTYLEG
+6#%$BOXG-%(SCALINGG6#%,CONSTRAINEDG" 1 2 2 1 10 1 2 1 0 2 1 1.0 45.0 
+45.0 0 0 "Curve 1" "Curve 2" }}{TEXT 210 0 "" }}}{EXCHG }{EXCHG {PARA 
+0 "" 0 "" {XPPEDIT 2 0 "Typesetting:-mrow(Typesetting:-mo(\"#\", size \+
+= \"14\", foreground = \"[0,255,0]\", mathvariant = \"normal\", fence \+
+= \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"##
+\302\361\270 \342\345\360\355\356\", size = \"14\", italic = \"true\",
+ foreground = \"[0,255,0]\", mathvariant = \"italic\"));" "-I%mrowG6#/
+I+modulenameG6\"I,TypesettingGI(_syslibGF'6$-I#moGF$6/Q\"#F'/%%sizeGQ#
+14F'/%+foregroundGQ*[0,255,0]F'/%,mathvariantGQ'normalF'/%&fenceGQ&fal
+seF'/%*separatorGF:/%)stretchyGF:/%*symmetricGF:/%(largeopGF:/%.movabl
+elimitsGF:/%'accentGF:/%'lspaceGQ&0.0emF'/%'rspaceGFI-I#miGF$6'Q,##|]w
+|\\z|cv~|]y|`y|[z|hy|iyF'F//%'italicGQ%trueF'F2/F6Q'italicF'" }{TEXT 
+205 0 "" }{TEXT 205 0 "" }{TEXT 205 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 205 0 "" }{TEXT 205 0 "" }}}{EXCHG {PARA 0 "" 0 "" {XPPEDIT 2 0 
+"Typesetting:-mrow(Typesetting:-mo(\"#\", size = \"22\", foreground = \+
+\"[153,51,0]\", mathvariant = \"normal\", fence = \"false\", separator
+ = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"This is The End\", size
+ = \"22\", italic = \"true\", foreground = \"[153,51,0]\", mathvariant
+ = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibG
+F'6$-I#moGF$6/Q\"#F'/%%sizeGQ#22F'/%+foregroundGQ+[153,51,0]F'/%,mathv
+ariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF:/%)stretchyGF:/%*sym
+metricGF:/%(largeopGF:/%.movablelimitsGF:/%'accentGF:/%'lspaceGQ&0.0em
+F'/%'rspaceGFI-I#miGF$6'Q0This~is~The~EndF'F//%'italicGQ%trueF'F2/F6Q'
+italicF'" }{TEXT 205 0 "" }}}{EXCHG {PARA 0 "" 0 "" {XPPEDIT 2 0 "" "%
+#%?G" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }
